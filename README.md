@@ -149,7 +149,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                    ACHIEVEMENTS                           -->
+<!--                  NEN POWER LEVELS                         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
@@ -158,38 +158,65 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <div align="center">
 
-<h2>🏆 &nbsp;ハンター試験の成果 &nbsp;— Achievements</h2>
+<h2>⚡ &nbsp;念能力レベル &nbsp;— Nen Power Levels</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=KhomkritTK&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+</div>
+
+<div align="center">
+
+```
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║   ⚡  Z O L D Y C K   T R A I N I N G   R E S U L T S  ⚡     ║
+  ╠══════════════════════════════════════════════════════════════════╣
+  ║                                                                  ║
+  ║  Frontend        ████████████████████░░░░  85%  Lightning Palm  ║
+  ║  Backend         ████████████████░░░░░░░░  75%  Thunderbolt     ║
+  ║  Database        ██████████████░░░░░░░░░░  70%  Ice Pick        ║
+  ║  DevOps          ████████████░░░░░░░░░░░░  60%  Godspeed        ║
+  ║  UI / UX         ████████████████████████  90%  Rhythm Echo     ║
+  ║  Problem Solving ████████████████████████  99%  Kanmuru  ⚡     ║
+  ║                                                                  ║
+  ╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <br/>
 
-<!-- PROFILE SUMMARY CARDS -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  STREAK + CODING TIME                     -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhomkritTK&theme=2077" width="100%"/>
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
+<td align="center" width="55%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhomkritTK&theme=2077" width="24%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhomkritTK&theme=2077" width="24%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhomkritTK&theme=2077" width="24%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhomkritTK&theme=2077&utcOffset=7" width="24%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhomkritTK&hide_border=true&background=020209&ring=00d4ff&fire=00aaff&currStreakLabel=00d4ff&sideLabels=4a9aba&stroke=050d2e&currStreakNum=ffffff&sideNums=c8d6e5&dates=4a6f8a&theme=dark" width="100%"/>
 
-</div>
+</td>
+<td align="center" width="45%">
 
-<br/>
+```
+  ⚡ HUNTER CARD
 
-<!-- SNAKE -->
-<div align="center">
+  ┌─────────────────────────┐
+  │  🗡️  Khomkrit TK        │
+  │  🌙  Star-Class Hunter  │
+  │  📍  Thailand           │
+  │  ⚡  Transmuter         │
+  │                         │
+  │  💻  Laptop : Always    │
+  │  🍫  Choco  : Yes       │
+  │  ☕  Coffee : Essential │
+  │  🌙  Sleep  : Optional  │
+  └─────────────────────────┘
+```
 
-<h2>🐍 &nbsp;神速 &nbsp;— Contribution Snake</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhomkritTK/KhomkritTK/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhomkritTK/KhomkritTK/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/KhomkritTK/KhomkritTK/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+</td>
+</tr>
+</table>
 
 </div>
 
