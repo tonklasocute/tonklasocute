@@ -12,49 +12,52 @@
 <!--                  HEADER                        -->
 <!-- ══════════════════════════════════════════════ -->
 
-<!-- TOP ELECTRIC BAR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:020209,50:00d4ff,100:020209" width="100%"/>
-
-<!-- SERIES LABEL -->
 <div align="center">
+
+<!-- SERIES TAG -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:020209,40:050d2e,60:050d2e,100:020209&text=%E2%9A%A1%20%20HUNTER%20%C3%97%20HUNTER%20%20%E2%9A%A1&fontSize=14&fontColor=00d4ff&fontAlignY=65" width="100%"/>
+
 <br/>
 
-![](https://img.shields.io/badge/━━━━━━━━━━%20HUNTER%20×%20HUNTER%20━━━━━━━━━━--%20-00d4ff?style=flat-square&labelColor=020209&color=020209)
+<!-- ⚡ BIG TITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=4000&pause=4000&color=00D4FF&center=true&vCenter=true&repeat=true&width=820&height=90&lines=KILLUA+ZOLDYCK" alt="KILLUA ZOLDYCK"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=22&duration=4000&pause=4000&color=4a9aba&center=true&vCenter=true&repeat=true&width=820&height=40&lines=%E3%82%AD%E3%83%AB%E3%82%A2%E3%83%BB%E3%82%BE%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF" alt="キルア・ゾルディック"/>
+
+<!-- ELECTRIC DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="75%"/>
 
 <br/>
 
-<!-- HERO GIF — large & centered -->
-<img src="https://media1.tenor.com/m/fKinuddndSYAAAAC/killua-godspeed.gif" width="480px"/>
+<!-- HERO GIF — banner landscape 498×280 -->
+<img src="https://media1.tenor.com/m/YGFHz0iNNh8AAAAC/killua-killuazoldyc.gif" width="100%"/>
 
 <br/>
 
 <!-- ELECTRIC DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:020209,30:00d4ff,50:ffffff,70:00d4ff,100:020209" width="60%"/>
-
-<br/><br/>
-
-<!-- MAIN TITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&duration=3500&pause=3000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=KILLUA+ZOLDYCK;キルア・ゾルディック" alt="Killua Zoldyck"/>
-
-<!-- ROLE TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=19&duration=2500&pause=1000&color=7EB8D4&center=true&vCenter=true&width=700&height=40&lines=⚡+Godspeed+Mode+Activated+—+Full+Stack+Developer;🗡️+Transmuter+%7C+Former+Assassin+%7C+Star+Hunter;🍫+Chocolate+%2B+Coffee+%3D+Infinite+Nen;🌙+Coding+at+the+speed+of+lightning;🤝+Gon's+forever+partner+in+code+%26+adventure" alt="Role"/>
-
-<br/><br/>
-
-<!-- BADGE ROW -->
-[![](https://img.shields.io/badge/⚡_NEN_TYPE-TRANSMUTER-00d4ff?style=for-the-badge&labelColor=020d2e&logoColor=00d4ff)](https://github.com/KhomkritTK)
-[![](https://img.shields.io/badge/🗡️_CLASS-ASSASSIN_→_HUNTER-00d4ff?style=for-the-badge&labelColor=020d2e)](https://github.com/KhomkritTK)
-[![](https://img.shields.io/badge/📍_ORIGIN-THAILAND_🇹🇭-00d4ff?style=for-the-badge&labelColor=020d2e)](https://github.com/KhomkritTK)
-[![](https://komarev.com/ghpvc/?username=KhomkritTK&color=00d4ff&style=for-the-badge&label=⚡+VISITORS)](https://github.com/KhomkritTK)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="75%"/>
 
 <br/>
 
-<!-- BOTTOM ELECTRIC BAR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:020209,30:00d4ff,50:ffffff,70:00d4ff,100:020209" width="60%"/>
+<!-- SUBTITLE TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=17&duration=2800&pause=900&color=7EAEC8&center=true&vCenter=true&width=720&height=36&lines=%E2%9A%A1+Godspeed+Mode+ON+%E2%80%94+Full+Stack+Developer;%F0%9F%97%A1%EF%B8%8F+Transmuter+%7C+Former+Assassin+%7C+Star+Hunter;%F0%9F%8D%AB+Chocolate+%2B+Coffee+%3D+Infinite+Nen+Power;%F0%9F%8C%99+Best+code+written+after+midnight;%F0%9F%A4%9D+Gon%27s+forever+partner+in+code+%26+adventure" alt="subtitle"/>
+
+<br/>
+
+<!-- INFO STRIP -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=38&color=0:020209,40:050d2e,60:050d2e,100:020209&text=NEN%3A+TRANSMUTATION+%E2%80%A2+CLASS%3A+STAR+HUNTER+%E2%80%A2+ORIGIN%3A+THAILAND+%F0%9F%87%B9%F0%9F%87%AD+%E2%80%A2+STATUS%3A+%E2%97%8F+ONLINE&fontSize=12&fontColor=4a9aba&fontAlignY=65" width="100%"/>
+
+<br/>
+
+<!-- BADGES -->
+[![](https://img.shields.io/badge/-%E2%9A%A1_TRANSMUTER-050d2e?style=for-the-badge&labelColor=050d2e&color=00d4ff&logoColor=00d4ff&label=%E2%9A%A1+NEN+TYPE)](https://github.com/KhomkritTK)
+[![](https://img.shields.io/badge/ASSASSIN_%E2%86%92_HUNTER-050d2e?style=for-the-badge&label=%F0%9F%97%A1%EF%B8%8F+CLASS&labelColor=050d2e&color=00d4ff)](https://github.com/KhomkritTK)
+[![](https://img.shields.io/badge/THAILAND_%F0%9F%87%B9%F0%9F%87%AD-050d2e?style=for-the-badge&label=%F0%9F%93%8D+ORIGIN&labelColor=050d2e&color=00d4ff)](https://github.com/KhomkritTK)
+[![](https://komarev.com/ghpvc/?username=KhomkritTK&color=00d4ff&style=for-the-badge&label=%E2%9A%A1+VISITORS)](https://github.com/KhomkritTK)
+
+<br/>
 
 </div>
-
-<br/>
 
 <!-- ══════════════════════════════════════════════ -->
 <!--            HUNTER LICENSE CARD                 -->
