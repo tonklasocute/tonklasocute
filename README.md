@@ -198,21 +198,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 </td>
 <td align="center" width="45%">
 
-```
-  ⚡ HUNTER CARD
-
-  ┌─────────────────────────┐
-  │  🗡️  Khomkrit TK        │
-  │  🌙  Star-Class Hunter  │
-  │  📍  Thailand           │
-  │  ⚡  Transmuter         │
-  │                         │
-  │  💻  Laptop : Always    │
-  │  🍫  Choco  : Yes       │
-  │  ☕  Coffee : Essential │
-  │  🌙  Sleep  : Optional  │
-  └─────────────────────────┘
-```
+<img src="https://github-readme-stats.vercel.app/api?username=KhomkritTK&show_icons=true&hide_border=true&bg_color=020209&title_color=00d4ff&icon_color=00d4ff&text_color=c8d6e5&count_private=true&include_all_commits=true" width="100%"/>
 
 </td>
 </tr>
@@ -227,52 +213,61 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                    KILLUA QUOTE                           -->
+<!--               QUOTE + CONNECT (SIDE BY SIDE)              -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<table border="0" cellspacing="0" cellpadding="20">
+<tr>
 
-<img src="https://media1.tenor.com/m/0SJj_JDgzHAAAAAC/killua-gon.gif" width="100px"/>
+<!-- QUOTE -->
+<td width="50%" align="center" valign="middle">
 
-<br/>
+<img src="https://media1.tenor.com/m/0SJj_JDgzHAAAAAC/killua-gon.gif" width="160px"/>
 
-> *「やりたいことを全力でやって、後悔はしたくない。」*
->
-> *"I want to do what I want with all my might — I don't want any regrets."*
->
-> **⚡ — Killua Zoldyck**
+<br/><br/>
 
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="100%"/>
 
-<br/>
+</td>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
+<!-- CONNECT -->
+<td width="50%" align="center" valign="middle">
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      SOCIALS                              -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h2>🌐 &nbsp;Send a Nen Message &nbsp;— Let's Connect!</h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050d2e)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=050d2e)](https://github.com/KhomkritTK)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050d2e)](mailto:your-email@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=050d2e)](https://facebook.com/your-profile)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=050d2e)](https://discord.com/users/your-id)
+<h3>⚡ &nbsp;Let's Connect</h3>
 
 <br/>
 
-<sub>
-  ⚡ &nbsp;
-  <code>while (alive) { eat(🍫); code(⚡); repeat(); }</code>
-  &nbsp; ⚡
-</sub>
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020d2e" />
+</a>
 
-</div>
+<br/><br/>
+
+<a href="https://github.com/KhomkritTK">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=020d2e" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020d2e" />
+</a>
+
+<br/><br/>
+
+<a href="https://facebook.com/your-profile">
+  <img src="https://img.shields.io/badge/Facebook-Find_Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=020d2e" />
+</a>
+
+<br/><br/>
+
+<a href="https://discord.com/users/your-id">
+  <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=020d2e" />
+</a>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -280,4 +275,18 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <!--                       FOOTER                              -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:020209,40:050d2e,70:0a1a4b,100:020209&section=footer&text=%E2%9A%A1+GODSPEED+%E2%9A%A1&fontSize=28&fontColor=00d4ff&animation=twinkling&fontAlignY=65" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
+
+<br/>
+
+<sub>
+⚡ &nbsp; <i>Thanks for visiting — drop a ⭐ if you like what you see!</i> &nbsp; ⚡
+</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020209,30:041428,60:050d2e,100:020209&section=footer&text=%E2%9A%A1%20GODSPEED%20%E2%9A%A1&fontSize=32&fontColor=00d4ff&animation=twinkling&fontAlignY=60&desc=Killua+Zoldyck+%E2%80%A2+KhomkritTK+%E2%80%A2+Full+Stack+Developer&descSize=14&descColor=4a9aba&descAlignY=78" width="100%"/>
