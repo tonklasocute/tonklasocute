@@ -149,7 +149,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--               SECTION 1 — CINEMATIC QUOTE                 -->
+<!--                     QUOTE SECTION                         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
@@ -157,129 +157,73 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <div align="center">
 <br/>
 
-<img src="https://media1.tenor.com/m/fKinuddndSYAAAAC/killua-godspeed.gif" width="340px"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="50%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=20&duration=5000&pause=9999&color=C8D6E5&center=true&vCenter=true&repeat=false&width=750&height=40&lines=%E3%80%8C%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E5%85%A8%E5%8A%9B%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A6%E3%80%81%E5%BE%8C%E6%82%94%E3%81%AF%E3%81%97%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%E3%80%82%E3%80%8D" alt="quote-jp"/>
-
-<br/>
-
-> *"I want to do what I want with all my might — I don't want any regrets."*
->
-> **⚡ — Killua Zoldyck**
-
-<br/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--              SECTION 2 — NEN TRANSMISSION                 -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=2000&pause=9999&color=00D4FF&center=true&vCenter=true&repeat=false&width=500&height=24&lines=%5B+INITIALIZING+NEN+TRANSMISSION...+%5D+%E2%9C%93" alt="transmission"/>
-
-<h2>📡 &nbsp;Nen Transmission &nbsp;— Find Me</h2>
-
-<br/>
-
-<table border="0" cellpadding="12">
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
-
-<td align="center">
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=180&color=0:020d24,100:020d24&text=💼+LinkedIn&fontSize=16&fontColor=0a84ff&fontAlignY=55"/>
-<br/>
-<sub><b>Professional Network</b></sub>
-</a>
+<td width="38%" align="center">
+<img src="https://media1.tenor.com/m/fKinuddndSYAAAAC/killua-godspeed.gif" width="260px"/>
 </td>
+<td width="62%" align="left" valign="middle">
 
-<td align="center">
-<a href="https://github.com/KhomkritTK">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=180&color=0:020d24,100:020d24&text=🐙+GitHub&fontSize=16&fontColor=e6edf3&fontAlignY=55"/>
 <br/>
-<sub><b>Code Repository</b></sub>
-</a>
+
+```
+  ╔═══════════════════════════════════════════╗
+  ║                                           ║
+  ║  「やりたいことを全力でやって、            ║
+  ║    後悔はしたくない。」                    ║
+  ║                                           ║
+  ║  "I want to do what I want               ║
+  ║   with all my might —                    ║
+  ║   I don't want any regrets."             ║
+  ║                                           ║
+  ║                   ⚡ Killua Zoldyck       ║
+  ╚═══════════════════════════════════════════╝
+```
+
 </td>
-
-<td align="center">
-<a href="mailto:your-email@gmail.com">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=180&color=0:020d24,100:020d24&text=📬+Gmail&fontSize=16&fontColor=ea4335&fontAlignY=55"/>
-<br/>
-<sub><b>Direct Message</b></sub>
-</a>
-</td>
-
-</tr>
-<tr>
-
-<td align="center">
-<a href="https://facebook.com/your-profile">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=180&color=0:020d24,100:020d24&text=📘+Facebook&fontSize=16&fontColor=1877f2&fontAlignY=55"/>
-<br/>
-<sub><b>Social Media</b></sub>
-</a>
-</td>
-
-<td align="center">
-<a href="https://discord.com/users/your-id">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=180&color=0:020d24,100:020d24&text=🎮+Discord&fontSize=16&fontColor=5865f2&fontAlignY=55"/>
-<br/>
-<sub><b>Gaming & Chat</b></sub>
-</a>
-</td>
-
-<td align="center">
-<a href="https://your-portfolio.dev">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=54&width=180&color=0:020d24,100:020d24&text=🌐+Portfolio&fontSize=16&fontColor=00d4ff&fontAlignY=55"/>
-<br/>
-<sub><b>My Work</b></sub>
-</a>
-</td>
-
 </tr>
 </table>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=2000&pause=9999&color=1a4a6a&center=true&vCenter=true&repeat=false&width=400&height=20&lines=%5B+TRANSMISSION+COMPLETE+%5D+%E2%9C%93" alt="done"/>
-
 </div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                SECTION 3 — CLOSING / FOOTER               -->
-<!-- ══════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
 
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT SECTION                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<br/>
-
-<img src="https://media1.tenor.com/m/0SJj_JDgzHAAAAAC/killua-gon.gif" width="90px"/>
+<h2>⚡ &nbsp;Connect With Me</h2>
 
 <br/>
 
-<sub>
-  <b>⚡ KhomkritTK</b> &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; Thailand 🇹🇭
-  <br/>
-  <i>Thanks for visiting — Feel free to reach out anytime!</i>
-</sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhomkritTK)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 <br/><br/>
 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.dev)
+
+<br/><br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=KhomkritTK&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020209,25:030d1f,55:041428,85:050d2e,100:020209&section=footer&text=%E2%9A%A1+GODSPEED+%E2%9A%A1&fontSize=30&fontColor=00d4ff&animation=twinkling&fontAlignY=58&desc=Killua+Zoldyck+%E2%80%A2+KhomkritTK+%E2%80%A2+Full+Stack+Developer&descSize=14&descColor=2a5a7a&descAlignY=76" width="100%"/>
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                       FOOTER                              -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020209,30:030e1c,60:041428,100:020209&section=footer&text=%E2%9A%A1+GODSPEED+%E2%9A%A1&fontSize=34&fontColor=00d4ff&animation=twinkling&fontAlignY=55&desc=Killua+Zoldyck+%E2%80%A2+KhomkritTK+%E2%80%A2+Full+Stack+Developer+%E2%80%A2+Thailand+%F0%9F%87%B9%F0%9F%87%AD&descSize=13&descColor=2a5a7a&descAlignY=72" width="100%"/>
