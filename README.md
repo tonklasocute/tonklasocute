@@ -126,35 +126,44 @@
 <!--              GITHUB STATS                      -->
 <!-- ══════════════════════════════════════════════ -->
 
-<h2>📊&nbsp; ハンター試験 — Hunter Exam Score</h2>
+<!-- ══════════════════════════════════════════════ -->
+<!--         PROFILE SUMMARY CARDS (2077)           -->
+<!-- ══════════════════════════════════════════════ -->
+
+<h2>⚡&nbsp; ゾルディック家の記録 — Zoldyck's Mission Log</h2>
 
 <div align="center">
-
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=KhomkritTK&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=050510&title_color=00d4ff&icon_color=00d4ff&text_color=c8d6e5&ring_color=00d4ff&count_private=true&include_all_commits=true"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhomkritTK&layout=compact&theme=midnight-purple&hide_border=true&bg_color=050510&title_color=00d4ff&text_color=c8d6e5&langs_count=8"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhomkritTK&theme=2077" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhomkritTK&theme=dark&hide_border=true&background=050510&ring=00d4ff&fire=00a8ff&currStreakLabel=00d4ff&sideLabels=c8d6e5&stroke=0a0a2e&currStreakNum=ffffff&sideNums=c8d6e5&dates=5c7a9a" width="70%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhomkritTK&theme=2077" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhomkritTK&theme=2077" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhomkritTK&theme=2077" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhomkritTK&theme=2077&utcOffset=7" width="24%"/>
 </div>
 
 <br/>
 
+<!-- ══════════════════════════════════════════════ -->
+<!--        3D SNAKE CONTRIBUTION + TROPHIES        -->
+<!-- ══════════════════════════════════════════════ -->
+
+<h2>🗡️&nbsp; 暗殺一家の遺産 — Assassination Legacy</h2>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhomkritTK&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%"/>
+
+<!-- Snake eats your contributions — setup guide below -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhomkritTK/KhomkritTK/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhomkritTK/KhomkritTK/output/github-contribution-grid-snake.svg"/>
+  <img alt="⚡ Killua's snake devouring contributions" src="https://raw.githubusercontent.com/KhomkritTK/KhomkritTK/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
 </div>
 
----
-
-<!-- ══════════════════════════════════════════════ -->
-<!--          GODSPEED ACTIVITY GRAPH               -->
-<!-- ══════════════════════════════════════════════ -->
-
-<h2>⚡&nbsp; 神速 (Godspeed) — Activity</h2>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhomkritTK&theme=react-dark&hide_border=true&bg_color=050510&color=00d4ff&line=0066cc&point=00d4ff&area=true&area_color=0a0a2e" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KhomkritTK&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
 </div>
 
 ---
