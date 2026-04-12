@@ -1,117 +1,206 @@
+<!-- HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Khomkrit%20TK&fontSize=90&color=0:8B5CF6,50:EC4899,100:06B6D4&fontColor=fff&stroke=ffffff&strokeWidth=2&animation=fadeIn&desc=Full%20Stack%20Developer%20%F0%9F%9A%80%20%7C%20Thailand%20%F0%9F%87%B9%F0%9F%87%AD&descSize=22&descAlignY=72" width="100%"/>
+</div>
+
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Khomkrit!;%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%A1+I+love+building+cool+stuff;%F0%9F%8C%9F+Always+learning+new+things;%F0%9F%87%B9%F0%9F%87%AD+Coding+from+Thailand" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- VISITOR BADGE + SOCIAL QUICK LINKS -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Khomkrit%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Thailand%20🇹🇭&descSize=18&descAlignY=55" width="100%"/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=KhomkritTK&color=8B5CF6&style=flat-square&label=Profile+Views)
+  &nbsp;
+  [![GitHub followers](https://img.shields.io/github/followers/KhomkritTK?label=Followers&style=flat-square&color=EC4899)](https://github.com/KhomkritTK?tab=followers)
+  &nbsp;
+  [![GitHub stars](https://img.shields.io/github/stars/KhomkritTK?label=Stars&style=flat-square&color=06B6D4)](https://github.com/KhomkritTK)
 
 </div>
 
-<!-- Typing SVG -->
+<br/>
+
+<!-- ABOUT ME -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+  &nbsp;About Me
+</h2>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+awesome+web+apps+%F0%9F%8C%90;Always+learning+new+things+%F0%9F%93%9A;Open+source+enthusiast+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<table>
+<tr>
+<td width="55%">
+
+```yaml
+Name     : Khomkrit TK
+Located  : Thailand 🇹🇭
+Role     : Full Stack Developer
+Passion  : Building awesome web apps
+Learning : Cloud & AI/ML
+Hobbies  : Coding · Music · Gaming
+Available: Open to opportunities ✅
+```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- SNAKE ANIMATION (requires GitHub Actions setup - see below) -->
+<!-- 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KhomkritTK/KhomkritTK/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+-->
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
+
+<!-- TECH STACK -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
+  &nbsp;Tech Stack
+</h2>
+
+<div align="center">
+
+### 🌐 Languages
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,go,html,css,bash&theme=dark&perline=7)](https://skillicons.dev)
+
+### ⚡ Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,vite,redux&theme=dark&perline=7)](https://skillicons.dev)
+
+### 🔧 Backend & Database
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,postgresql,mongodb,redis&theme=dark&perline=7)](https://skillicons.dev)
+
+### ☁️ Cloud & DevOps
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,linux,git&theme=dark&perline=7)](https://skillicons.dev)
+
+### 🛠️ Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,postman,github,gitlab,notion,discord&theme=dark&perline=7)](https://skillicons.dev)
+
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
+
+<!-- GITHUB STATS -->
+<h2 align="center">
+  📊 GitHub Analytics
+</h2>
+
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KhomkritTK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhomkritTK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhomkritTK&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4&sideLabels=C9D1D9&dates=8B9499" alt="Streak Stats"/>
+</div>
+
+<br/>
+
+<!-- TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KhomkritTK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
+
+<!-- ACTIVITY GRAPH -->
+<h2 align="center">
+  📈 Contribution Graph
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhomkritTK&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=06B6D4&area=true&area_color=8B5CF6" width="100%"/>
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
+
+<!-- CURRENTLY DOING -->
+<h2 align="center">
+  ⚡ What I'm Up To
+</h2>
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+```javascript
+const now = {
+  🔭 working_on : "Building scalable web apps",
+  🌱 learning   : "Cloud Architecture & AI",
+  👯 looking_for: "Collaboration on cool projects",
+  💬 ask_me     : "React, Node.js, TypeScript",
+  ⚡ fun_fact   : "I have more tabs open than RAM",
+};
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- RANDOM DEV QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="90%"/>
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
+
+<!-- CONNECT WITH ME -->
+<h2 align="center">
+  🌐 Connect With Me
+</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhomkritTK)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.dev)
+
+</div>
+
+<br/>
+
+<!-- SUPPORT -->
+<div align="center">
+  <a href="https://www.buymeacoffee.com/KhomkritTK">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </div>
 
 <br/>
 
-<!-- About Me -->
-## 🧑‍💻 About Me
-
-```typescript
-const khomkrit = {
-  name:        "Khomkrit TK",
-  location:    "Thailand 🇹🇭",
-  role:        "Full Stack Developer",
-  languages:   ["TypeScript", "JavaScript", "Python"],
-  frontend:    ["React", "Next.js", "Vue.js", "Tailwind CSS"],
-  backend:     ["Node.js", "Express", "NestJS"],
-  databases:   ["PostgreSQL", "MongoDB", "Redis"],
-  tools:       ["Docker", "Git", "VS Code", "Figma"],
-  currentFocus: "Building scalable web applications",
-  funFact:     "I debug with console.log and I'm not ashamed 😄",
-};
-```
-
-<br/>
-
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
-
+<!-- FOOTER -->
 <div align="center">
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <br/>
+  <em><b>I love connecting with people around the world!</b><br/>
+  Feel free to say hi — I'll be happy to chat 😊</em>
 </div>
 
 <br/>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhomkritTK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhomkritTK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhomkritTK&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhomkritTK&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
-<br/>
-
-<!-- Connect with me -->
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhomkritTK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
-
-</div>
-
-<br/>
-
-<!-- Profile Views Counter -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=KhomkritTK&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:06B6D4&height=150&section=footer&animation=twinkling" width="100%"/>
