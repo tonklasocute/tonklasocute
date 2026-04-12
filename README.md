@@ -1,102 +1,196 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ANIME HEADER                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--
+  ██╗  ██╗██╗██╗     ██╗   ██╗ █████╗
+  ██║ ██╔╝██║██║     ██║   ██║██╔══██╗
+  █████╔╝ ██║██║     ██║   ██║███████║
+  ██╔═██╗ ██║██║     ██║   ██║██╔══██║
+  ██║  ██╗██║███████╗╚██████╔╝██║  ██║
+  ╚═╝  ╚═╝╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝
+  ZOLDYCK · TRANSMUTER · GODSPEED MODE
+-->
+
+<!-- ══════════════════════════════════════════════ -->
+<!--                  HEADER                        -->
+<!-- ══════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E9%AD%94%E6%B3%95%E5%B8%AB&fontSize=60&fontColor=ff9ecd&animation=fadeIn&fontAlignY=38&desc=KhomkritTK%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=60&descColor=c9a0ff" width="100%"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:050510,30:0a0a2e,70:0d1b4b,100:050510&text=キルア・ゾルディック&fontSize=55&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&stroke=00d4ff&strokeWidth=1&desc=KhomkritTK%20%E2%9A%A1%20Full%20Stack%20Developer%20%E2%9A%A1%20Thailand%20%F0%9F%87%B9%F0%9F%87%AD&descSize=18&descColor=c8d6e5&descAlignY=65"/>
 </div>
 
 <!-- TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Zen+Kaku+Gothic+New&weight=700&size=24&duration=3500&pause=1000&color=FF9ECD&center=true&vCenter=true&random=false&width=700&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%E2%80%94+Welcome+to+my+profile!+%F0%9F%8C%B8;%F0%9F%8C%99+Coding+under+the+moonlight...;%E2%9C%A8+Building+dreams+with+code;%F0%9F%8C%B8+Kawaii+developer+from+Thailand+%F0%9F%87%B9%F0%9F%87%AD;%F0%9F%8E%8F+Let%27s+create+something+beautiful~" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Activating+Godspeed...;%F0%9F%97%B2+Killua+Zoldyck+has+entered+the+chat;%E2%9A%A1+Lightning+Palm+%E2%80%94+Code+flows+like+electricity;%F0%9F%8D%AB+Taking+a+quick+chocolate+break...;%E2%9A%A1+KANMURU+(%E7%A5%9E%E9%80%9F)%20%E2%80%94+Godspeed+Mode+ON;%F0%9F%97%B2+Training+with+Gon+never+stops" alt="Typing SVG"/>
 </div>
 
 <br/>
 
-<!-- BADGES ROW -->
 <div align="center">
 
-  ![](https://img.shields.io/badge/🌸-Full_Stack_Dev-FF9ECD?style=flat-square&labelColor=0f0c29)
-  ![](https://img.shields.io/badge/🌙-Thailand-C9A0FF?style=flat-square&labelColor=0f0c29)
-  ![](https://img.shields.io/badge/⭐-Open_to_Work-87CEEB?style=flat-square&labelColor=0f0c29)
-  ![Profile Views](https://komarev.com/ghpvc/?username=KhomkritTK&color=FF9ECD&style=flat-square&label=✿+Visitors)
+  ![](https://img.shields.io/badge/⚡_Nen_Type-Transmuter-00d4ff?style=flat-square&labelColor=050510&color=0a0a2e)
+  ![](https://img.shields.io/badge/🗡️_Class-Assassin_→_Hunter-00d4ff?style=flat-square&labelColor=050510&color=0a0a2e)
+  ![](https://img.shields.io/badge/🍫_Fuel-Chocolate-00d4ff?style=flat-square&labelColor=050510&color=0a0a2e)
+  ![Visitors](https://komarev.com/ghpvc/?username=KhomkritTK&color=00d4ff&style=flat-square&label=⚡+Visitors)
 
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════ -->
+<!--            HUNTER LICENSE CARD                 -->
+<!-- ══════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║            ⚡  H U N T E R  L I C E N S E  ⚡               ║
+║                  HUNTER ASSOCIATION  •  CLASS: S             ║
+╠══════════════════════════════════════════════════════════════╣
+║  Name       :  Khomkrit TK  (キルア)                         ║
+║  Origin     :  Thailand 🇹🇭   Zoldyck Estate                 ║
+║  Role       :  Full Stack Developer  //  Former Assassin     ║
+║  Nen Type   :  Transmutation  ⚡  (変化系)                    ║
+║  Ability    :  Godspeed — code compiled at lightning speed   ║
+║  Companion  :  Gon Freecss  (best friend & rubber dev 🍃)   ║
+║  Weakness   :  Running out of ☕ coffee & 🍫 chocolate        ║
+║  Status     :  ● ONLINE  —  Always hunting for new tech      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- KILLUA GIF  -->
+<div align="center">
+  <img src="https://media1.tenor.com/m/0SJj_JDgzHAAAAAC/killua-gon.gif" width="420px" title="Killua & Gon — HxH"/>
 </div>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280px"/>
-
-### ✦ ` 自己紹介 ` — About Me ✦
-
-```
-✿  Name    →  Khomkrit TK
-🌙  From    →  Thailand 🇹🇭
-⚡  Role    →  Full Stack Developer
-🎯  Focus   →  Web Apps & UI/UX
-🌸  Loves   →  Anime · Music · Coffee
-✨  Status  →  Always learning~
-```
-
-<br/>
-
-🌸 **Passionate** about turning ideas into beautiful digital experiences  
-🌙 **Night owl** developer — best code written after midnight  
-⭐ **Believer** that clean UI is a form of art  
-🎵 **Coding** always paired with lo-fi beats  
-
-<br clear="right"/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--            NEN ABILITIES = TECH STACK          -->
+<!-- ══════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  &nbsp;武器庫 — My Arsenal
+  ⚡&nbsp; 念能力 — Nen Abilities (Tech Stack)
 </h2>
+
+> *"My Nen... has evolved."*
 
 <div align="center">
 
 <table>
 <tr>
-  <td align="center" width="50%">
+<td align="center" width="33%">
 
-**🌐 Languages**
+**⚡ Thunderbolt**
+*Languages*
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark)](https://skillicons.dev)
 
-  </td>
-  <td align="center" width="50%">
+</td>
+<td align="center" width="33%">
 
-**⚡ Frontend Magic**
+**🌩️ Lightning Palm**
+*Frontend*
 
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite&theme=dark)](https://skillicons.dev)
 
-  </td>
+</td>
+<td align="center" width="33%">
+
+**⚡ Godspeed**
+*Backend & DB*
+
+[![](https://skillicons.dev/icons?i=nodejs,nestjs,express,postgresql,mongodb&theme=dark)](https://skillicons.dev)
+
+</td>
 </tr>
 <tr>
-  <td align="center">
+<td colspan="3" align="center">
 
-**🔧 Backend Jutsu**
+**🗡️ Assassination Arts — Cloud & DevOps**
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,postgresql,mongodb&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=docker,aws,gcp,git,linux,nginx,github&theme=dark)](https://skillicons.dev)
 
-  </td>
-  <td align="center">
+</td>
+</tr>
+</table>
 
-**☁️ Cloud & Tools**
+</div>
 
-[![Skills](https://skillicons.dev/icons?i=docker,aws,git,vscode,figma&theme=dark)](https://skillicons.dev)
+<br/>
 
-  </td>
+---
+
+<!-- ══════════════════════════════════════════════ -->
+<!--              GITHUB STATS                      -->
+<!-- ══════════════════════════════════════════════ -->
+
+<h2>📊&nbsp; ハンター試験 — Hunter Exam Score</h2>
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=KhomkritTK&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=050510&title_color=00d4ff&icon_color=00d4ff&text_color=c8d6e5&ring_color=00d4ff&count_private=true&include_all_commits=true"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhomkritTK&layout=compact&theme=midnight-purple&hide_border=true&bg_color=050510&title_color=00d4ff&text_color=c8d6e5&langs_count=8"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhomkritTK&theme=dark&hide_border=true&background=050510&ring=00d4ff&fire=00a8ff&currStreakLabel=00d4ff&sideLabels=c8d6e5&stroke=0a0a2e&currStreakNum=ffffff&sideNums=c8d6e5&dates=5c7a9a" width="70%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KhomkritTK&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%"/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════ -->
+<!--          GODSPEED ACTIVITY GRAPH               -->
+<!-- ══════════════════════════════════════════════ -->
+
+<h2>⚡&nbsp; 神速 (Godspeed) — Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhomkritTK&theme=react-dark&hide_border=true&bg_color=050510&color=00d4ff&line=0066cc&point=00d4ff&area=true&area_color=0a0a2e" width="100%"/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════ -->
+<!--                 KILLUA QUOTES                  -->
+<!-- ══════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://media1.tenor.com/m/0SJj_JDgzHAAAAAC/killua-gon.gif" width="80px"/>
+
+> *「俺には才能がある。だから努力する必要がない、とは思わない。才能があるからこそ、努力しなければならないと思う。」*
+>
+> *"I have talent. That's why I don't think I need to work hard. I think that because I have talent, I must work hard."*
+>
+> **— Killua Zoldyck**
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://media1.tenor.com/m/0SJj_JDgzHAAAAAC/killua-gon.gif" width="80px"/>
+
+> *「やりたいことを全力でやって、後悔はしたくない。」*
+>
+> *"I want to do what I want with all my might — I don't want any regrets."*
+>
+> **— Killua Zoldyck**
+
+</td>
 </tr>
 </table>
 
@@ -104,104 +198,69 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--              HXH FUN FACTS                     -->
+<!-- ══════════════════════════════════════════════ -->
 
-<h2>
-  🌙 &nbsp;戦績 — Stats & Achievements
-</h2>
+<h2>🍫&nbsp; About This Developer (Killua Style)</h2>
 
 <div align="center">
 
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=KhomkritTK&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=ff9ecd&icon_color=c9a0ff&text_color=e2d9f3&count_private=true&include_all_commits=true"/>
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhomkritTK&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=ff9ecd&text_color=e2d9f3&langs_count=8"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhomkritTK&theme=midnight-purple&hide_border=true&background=0f0c29&ring=ff9ecd&fire=c9a0ff&currStreakLabel=ff9ecd&sideLabels=e2d9f3&stroke=302b63&dates=8B9499" alt="GitHub Streak" width="70%"/>
-</div>
-
-<br/>
-
-<!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhomkritTK&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%"/>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  ACTIVITY GRAPH                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2>🌸 &nbsp;修行の軌跡 — My Journey</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhomkritTK&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=ff9ecd&line=c9a0ff&point=ff9ecd&area=true&area_color=302b63" width="100%"/>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   ANIME GIF SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="90px"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90px"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="90px"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> *「 夢を持ち続けろ。夢が持てなくなったとき、生きることをやめてしまうから。」*
-> 
-> *"Keep your dreams alive. For when you stop dreaming, you stop living."*
+| Killua | KhomkritTK |
+|:---:|:---:|
+| ⚡ Godspeed Ability | ⚡ Fast code delivery |
+| 🍫 Chocolate obsession | ☕ Coffee obsession |
+| 🛹 Skateboard everywhere | 💻 Laptop everywhere |
+| 🎯 Assassination-precision | 🎯 Bug-hunting precision |
+| 👁️ Enhanced perception | 👁️ Code review eagle eye |
+| 🧊 Ice cold under pressure | 🧊 Calm during production incidents |
+| 🤝 Loyal to Gon | 🤝 Loyal to teammates |
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      CONNECT                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--              CONNECT WITH ME                   -->
+<!-- ══════════════════════════════════════════════ -->
 
-<h2 align="center">🌺 &nbsp;繋がろう — Let's Connect!</h2>
+<h2 align="center">⚡&nbsp; Send a Nen Message — Let's Connect!</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhomkritTK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/your-profile)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Killua's_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050510)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Zoldyck_Repo-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=050510)](https://github.com/KhomkritTK)
+[![Gmail](https://img.shields.io/badge/Gmail-Nen_Transmission-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050510)](mailto:your-email@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Hunter_Guild-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=050510)](https://facebook.com/your-profile)
+[![Discord](https://img.shields.io/badge/Discord-Chimera_Ant_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=050510)](https://discord.com/users/your-id)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       FOOTER                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- FINAL GIF + SIGN OFF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70px"/>
+
+  <img src="https://media1.tenor.com/m/0SJj_JDgzHAAAAAC/killua-gon.gif" width="300px"/>
+
+  <br/><br/>
+
+  ```
+  ⚡ if (coffee.isEmpty() && chocolate.isEmpty()) throw new Error("Godspeed unavailable"); ⚡
+  ```
+
   <br/>
+
   <sub>
-    ✿ <i>Thanks for visiting! Drop a ⭐ if you like what you see~</i> ✿
-    <br/>
-    <code>while (alive) { eat(); sleep(); code(); repeat(); }</code>
+    ⚡ &nbsp;
+    <i>"Being alone is better than being with the wrong people."</i>
+    &nbsp; — Killua Zoldyck &nbsp;
+    ⚡
   </sub>
+
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:24243e,50:302b63,100:0f0c29&section=footer&animation=twinkling&fontColor=ff9ecd" width="100%"/>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:050510,40:0a0a2e,70:0d1b4b,100:050510&section=footer&text=⚡+GODSPEED+⚡&fontSize=28&fontColor=00d4ff&animation=twinkling&fontAlignY=65" width="100%"/>
