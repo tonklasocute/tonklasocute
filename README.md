@@ -11,23 +11,46 @@
 <!-- ══════════════════════════════════════════════ -->
 <!--                  HEADER                        -->
 <!-- ══════════════════════════════════════════════ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:050510,30:0a0a2e,70:0d1b4b,100:050510&text=キルア・ゾルディック&fontSize=55&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&stroke=00d4ff&strokeWidth=1&desc=KhomkritTK%20%E2%9A%A1%20Full%20Stack%20Developer%20%E2%9A%A1%20Thailand%20%F0%9F%87%B9%F0%9F%87%AD&descSize=18&descColor=c8d6e5&descAlignY=65"/>
-</div>
 
-<!-- TYPING -->
+<!-- TOP ELECTRIC BAR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:020209,50:00d4ff,100:020209" width="100%"/>
+
+<!-- SERIES LABEL -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Activating+Godspeed...;%F0%9F%97%B2+Killua+Zoldyck+has+entered+the+chat;%E2%9A%A1+Lightning+Palm+%E2%80%94+Code+flows+like+electricity;%F0%9F%8D%AB+Taking+a+quick+chocolate+break...;%E2%9A%A1+KANMURU+(%E7%A5%9E%E9%80%9F)%20%E2%80%94+Godspeed+Mode+ON;%F0%9F%97%B2+Training+with+Gon+never+stops" alt="Typing SVG"/>
-</div>
+<br/>
+
+![](https://img.shields.io/badge/━━━━━━━━━━%20HUNTER%20×%20HUNTER%20━━━━━━━━━━--%20-00d4ff?style=flat-square&labelColor=020209&color=020209)
 
 <br/>
 
-<div align="center">
+<!-- HERO GIF — large & centered -->
+<img src="https://media1.tenor.com/m/fKinuddndSYAAAAC/killua-godspeed.gif" width="480px"/>
 
-  ![](https://img.shields.io/badge/⚡_Nen_Type-Transmuter-00d4ff?style=flat-square&labelColor=050510&color=0a0a2e)
-  ![](https://img.shields.io/badge/🗡️_Class-Assassin_→_Hunter-00d4ff?style=flat-square&labelColor=050510&color=0a0a2e)
-  ![](https://img.shields.io/badge/🍫_Fuel-Chocolate-00d4ff?style=flat-square&labelColor=050510&color=0a0a2e)
-  ![Visitors](https://komarev.com/ghpvc/?username=KhomkritTK&color=00d4ff&style=flat-square&label=⚡+Visitors)
+<br/>
+
+<!-- ELECTRIC DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:020209,30:00d4ff,50:ffffff,70:00d4ff,100:020209" width="60%"/>
+
+<br/><br/>
+
+<!-- MAIN TITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&duration=3500&pause=3000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=KILLUA+ZOLDYCK;キルア・ゾルディック" alt="Killua Zoldyck"/>
+
+<!-- ROLE TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=19&duration=2500&pause=1000&color=7EB8D4&center=true&vCenter=true&width=700&height=40&lines=⚡+Godspeed+Mode+Activated+—+Full+Stack+Developer;🗡️+Transmuter+%7C+Former+Assassin+%7C+Star+Hunter;🍫+Chocolate+%2B+Coffee+%3D+Infinite+Nen;🌙+Coding+at+the+speed+of+lightning;🤝+Gon's+forever+partner+in+code+%26+adventure" alt="Role"/>
+
+<br/><br/>
+
+<!-- BADGE ROW -->
+[![](https://img.shields.io/badge/⚡_NEN_TYPE-TRANSMUTER-00d4ff?style=for-the-badge&labelColor=020d2e&logoColor=00d4ff)](https://github.com/KhomkritTK)
+[![](https://img.shields.io/badge/🗡️_CLASS-ASSASSIN_→_HUNTER-00d4ff?style=for-the-badge&labelColor=020d2e)](https://github.com/KhomkritTK)
+[![](https://img.shields.io/badge/📍_ORIGIN-THAILAND_🇹🇭-00d4ff?style=for-the-badge&labelColor=020d2e)](https://github.com/KhomkritTK)
+[![](https://komarev.com/ghpvc/?username=KhomkritTK&color=00d4ff&style=for-the-badge&label=⚡+VISITORS)](https://github.com/KhomkritTK)
+
+<br/>
+
+<!-- BOTTOM ELECTRIC BAR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:020209,30:00d4ff,50:ffffff,70:00d4ff,100:020209" width="60%"/>
 
 </div>
 
