@@ -86,45 +86,18 @@
 
 <!-- ══════════════════════════════════════════════════════════ -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
+
 <div align="center">
 <br/>
 
-<table border="0" cellpadding="20" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td width="42%" align="center" valign="middle">
-
-<img src="https://media1.tenor.com/m/fKinuddndSYAAAAC/killua-godspeed.gif" width="290"/>
-
+<td width="38%" align="center">
+<img src="https://media1.tenor.com/m/fKinuddndSYAAAAC/killua-godspeed.gif" width="260px"/>
 </td>
-<td width="58%" align="center" valign="middle">
+<td width="62%" align="left" valign="middle">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020209,25:003d5c,50:00d4ff,75:003d5c,100:020209" width="94%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=19&duration=1800&pause=99999&repeat=false&color=F0F8FF&center=true&vCenter=true&width=420&height=42&lines=%E3%80%8C%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E5%85%A8%E5%8A%9B%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A6%E3%80%81" alt="quote-jp-1"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=19&duration=1800&pause=99999&repeat=false&color=F0F8FF&center=true&vCenter=true&width=420&height=42&lines=%E5%BE%8C%E6%82%94%E3%81%AF%E3%81%97%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%E3%80%82%E3%80%8D" alt="quote-jp-2"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1500&pause=99999&repeat=false&color=00D4FF&center=true&vCenter=true&width=420&height=28&lines=%22I+want+to+do+what+I+want+with+all+my+might+%E2%80%94" alt="quote-en-1"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1500&pause=99999&repeat=false&color=00D4FF&center=true&vCenter=true&width=420&height=28&lines=I+don%27t+want+any+regrets.%22" alt="quote-en-2"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=1200&pause=99999&repeat=false&color=4A9ABA&center=true&vCenter=true&width=420&height=30&lines=%E2%9A%A1+%E2%80%94+Killua+Zoldyck" alt="attribution"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020209,25:003d5c,50:00d4ff,75:003d5c,100:020209" width="94%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
