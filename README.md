@@ -152,38 +152,37 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <!--                     QUOTE SECTION                         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
-
 <div align="center">
 <br/>
 
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td width="38%" align="center">
-<img src="https://media1.tenor.com/m/fKinuddndSYAAAAC/killua-godspeed.gif" width="260px"/>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media1.tenor.com/m/fKinuddndSYAAAAC/killua-godspeed.gif" width="280"/>
+
 </td>
-<td width="62%" align="left" valign="middle">
+<td width="60%" align="center" valign="middle">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:020209,40:050d2e,60:050d2e,100:020209&text=%E2%9A%A1+ZOLDYCK+PHILOSOPHY&fontSize=14&fontColor=00d4ff&fontAlignY=65" width="96%"/>
 
-```
-  ╔═══════════════════════════════════════════╗
-  ║                                           ║
-  ║  「やりたいことを全力でやって、            ║
-  ║    後悔はしたくない。」                    ║
-  ║                                           ║
-  ║  "I want to do what I want               ║
-  ║   with all my might —                    ║
-  ║   I don't want any regrets."             ║
-  ║                                           ║
-  ║                   ⚡ Killua Zoldyck       ║
-  ╚═══════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=19&duration=3500&pause=8000&color=F5F5F5&center=true&vCenter=true&width=430&height=44&lines=%E3%80%8C%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E5%85%A8%E5%8A%9B%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A6%E3%80%81" alt="jp-1"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=19&duration=3500&pause=8000&color=F5F5F5&center=true&vCenter=true&width=430&height=44&lines=%E5%BE%8C%E6%82%94%E3%81%AF%E3%81%97%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%E3%80%82%E3%80%8D" alt="jp-2"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="78%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=8000&color=00D4FF&center=true&vCenter=true&width=430&height=30&lines=%22I+want+to+do+what+I+want+with+all+my+might+%E2%80%94" alt="en-1"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=8000&color=00D4FF&center=true&vCenter=true&width=430&height=30&lines=I+don%27t+want+any+regrets.%22" alt="en-2"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=0:020209,40:050d2e,60:050d2e,100:020209&text=%E2%9A%A1+Killua+Zoldyck+%E2%80%94+Hunter+%C3%97+Hunter&fontSize=12&fontColor=4a9aba&fontAlignY=65" width="96%"/>
 
 </td>
 </tr>
 </table>
 
+<br/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
