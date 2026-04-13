@@ -234,7 +234,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <br/>
 
-<a href="https://your-portfolio.dev">
+<a href="https://github.com/KhomkritTK/portfolio">
 <img src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work%20%E2%86%97-00d4ff?style=for-the-badge&logo=todoist&logoColor=050d2e&labelColor=005580" width="560"/>
 </a>
 
