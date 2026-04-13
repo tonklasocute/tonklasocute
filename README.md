@@ -196,7 +196,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020209,20:040f20,55:051a34,80:040f20,100:020209&section=header&text=%E2%9A%A1+CONNECT+WITH+ME&fontSize=46&fontColor=00d4ff&animation=twinkling&fontAlignY=50&desc=Transmitting+signal+%E2%80%94+always+open+for+collaboration&descSize=15&descColor=4a9aba&descAlignY=73" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+CONNECT+WITH+ME&fontSize=38&fontColor=00d4ff&fontAlign=50&fontAlignY=48&animation=twinkling&desc=Transmitting+signal+%E2%80%94+always+open+for+collaboration&descSize=15&descColor=4a9aba&descAlign=50&descAlignY=74" width="100%"/>
 
 <br/>
 
@@ -205,37 +205,37 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <br/><br/>
 
 <a href="https://linkedin.com/in/your-profile">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:001828,50:006EB3,100:001828&text=LINKEDIN+%E2%80%94+Professional+Network+%E2%86%97&fontSize=17&fontColor=ffffff&fontAlignY=55" width="66%"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect%20Now%20%E2%86%97-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003d5c" width="560"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/KhomkritTK">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:0a0d12,50:2a4d72,100:0a0d12&text=GITHUB+%E2%80%94+%40KhomkritTK+%E2%86%97&fontSize=17&fontColor=00d4ff&fontAlignY=55" width="66%"/>
+<img src="https://img.shields.io/badge/GITHUB-%40KhomkritTK%20%E2%86%97-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117" width="560"/>
 </a>
 
 <br/>
 
 <a href="mailto:your-email@gmail.com">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:200000,50:DD4B39,100:200000&text=GMAIL+%E2%80%94+Send+a+Message+%E2%86%97&fontSize=17&fontColor=ffffff&fontAlignY=55" width="66%"/>
+<img src="https://img.shields.io/badge/GMAIL-Send%20a%20Message%20%E2%86%97-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7a1810" width="560"/>
 </a>
 
 <br/>
 
 <a href="https://facebook.com/your-profile">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:001040,50:2196F3,100:001040&text=FACEBOOK+%E2%80%94+Add+Friend+%E2%86%97&fontSize=17&fontColor=ffffff&fontAlignY=55" width="66%"/>
+<img src="https://img.shields.io/badge/FACEBOOK-Add%20Friend%20%E2%86%97-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a3580" width="560"/>
 </a>
 
 <br/>
 
 <a href="https://discord.com/users/your-id">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:0d0e38,50:7289DA,100:0d0e38&text=DISCORD+%E2%80%94+Join+Server+%E2%86%97&fontSize=17&fontColor=ffffff&fontAlignY=55" width="66%"/>
+<img src="https://img.shields.io/badge/DISCORD-Join%20Server%20%E2%86%97-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c3399" width="560"/>
 </a>
 
 <br/>
 
 <a href="https://your-portfolio.dev">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:001825,50:00BCD4,100:001825&text=PORTFOLIO+%E2%80%94+View+My+Work+%E2%86%97&fontSize=17&fontColor=ffffff&fontAlignY=55" width="66%"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work%20%E2%86%97-00d4ff?style=for-the-badge&logo=todoist&logoColor=050d2e&labelColor=005580" width="560"/>
 </a>
 
 <br/><br/>
@@ -248,4 +248,15 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <!--                       FOOTER                              -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020209,30:030e1c,60:041428,100:020209&section=footer&text=%E2%9A%A1+GODSPEED+%E2%9A%A1&fontSize=34&fontColor=00d4ff&animation=twinkling&fontAlignY=55&desc=Killua+Zoldyck+%E2%80%A2+KhomkritTK+%E2%80%A2+Full+Stack+Developer+%E2%80%A2+Thailand+%F0%9F%87%B9%F0%9F%87%AD&descSize=13&descColor=2a5a7a&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
+
+<div align="center">
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=2000&color=4a9aba&center=true&vCenter=true&width=600&height=28&lines=Thanks+for+stopping+by+%E2%80%94+hope+to+build+something+together+someday+%E2%9A%A1" alt="footer-text"/>
+
+<br/><br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020209,30:030e1c,60:041428,100:020209&section=footer" width="100%"/>
