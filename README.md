@@ -228,7 +228,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <br/>
 
 <a href="https://discord.com/users/734421230270283812">
-<img src="https://img.shields.io/badge/DISCORD-Join%20Server%20%E2%86%97-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c3399" width="560"/>
+<img src="https://img.shields.io/badge/DISCORD-Add%20Friend%20%E2%86%97-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c3399" width="560"/>
 </a>
 
 <br/>
@@ -247,12 +247,13 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <!--                       FOOTER                              -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+GODSPEED+%E2%80%94+SIGNING+OFF&fontSize=40&fontColor=00d4ff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Thanks+for+stopping+by+%E2%80%94+let%27s+build+something+legendary+together+someday+%E2%9A%A1&descSize=15&descColor=7eaec8&descAlign=50&descAlignY=66" width="100%"/>
+
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=2000&color=4a9aba&center=true&vCenter=true&width=600&height=28&lines=Thanks+for+stopping+by+%E2%80%94+hope+to+build+something+together+someday+%E2%9A%A1" alt="footer-text"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1600&pause=900&color=4A9ABA&center=true&vCenter=true&width=660&height=28&lines=%3E+Godspeed+mode+deactivating...;%3E+All+Nen+reserves+safely+stored+%E2%9A%A1;%3E+Signal+fading+%E2%80%94+until+we+meet+again;%3E+Stay+sharp+%7C+Code+fast+%7C+No+regrets" alt="footer-typing"/>
 
 <br/><br/>
 
