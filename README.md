@@ -4,9 +4,7 @@
 -->
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                        BANNER                             -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -47,9 +45,7 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                      ABOUT ME                             -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
@@ -58,32 +54,102 @@
 <tr>
 <td width="35%" align="center" valign="top">
 
+<br/>
+
+<img src="https://media1.tenor.com/m/0SJj_JDgzHAAAAAC/killua-gon.gif" width="220px"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/Khomkrit_TK-Dev-00d4ff?style=flat-square&labelColor=050d2e)
+![](https://img.shields.io/badge/Thailand-🇹🇭-00d4ff?style=flat-square&labelColor=050d2e)
+
+<br/>
+
+</td>
+<td width="65%" valign="top">
+
+<br/>
+
+### ⚡ &nbsp;こんにちは — Hi there!
+
+I'm **Khomkrit**, a passionate **Full Stack Developer** from 🇹🇭 Thailand with a love for building clean, fast, and beautiful web applications.
+
+Like Killua, I believe in pushing limits — whether it's optimizing a slow query or crafting pixel-perfect UI. I work with modern JavaScript ecosystems and love turning complex problems into elegant solutions.
+
+**🔭 Currently working on** — scalable web apps & e-service platforms  
+**🌱 Always learning** — Cloud architecture, AI integration & new frameworks  
+**🎯 I care about** — Clean code · Great UX · Team collaboration  
+**🌙 Fun fact** — My best commits happen after midnight 🍫  
+
+<br/>
+
+### 🗡️ &nbsp;Expertise
+
+```
+  ⚡  Frontend Development    →  React, Next.js, Vue, Tailwind CSS
+  ⚡  Backend Development     →  Node.js, NestJS, REST & GraphQL APIs
+  ⚡  Database                →  PostgreSQL, MongoDB, Redis
+  ⚡  DevOps & Cloud          →  Docker, AWS, CI/CD pipelines
+  ⚡  UI/UX Thinking          →  Figma, responsive & accessible design
+```
+
+</td>
+</tr>
+</table>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                     TECH STACK                            -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h2>⚡  念能力  — Tech Stack</h2>
+<h2>⚡ &nbsp;念能力 &nbsp;— Tech Stack</h2>
 
 <table>
 <tr>
 <td align="center">
+
+**⚡ Thunderbolt — Languages**
+
+[![](https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark)](https://skillicons.dev)
+
+</td>
+<td align="center">
+
+**🌩️ Lightning Palm — Frontend**
+
+[![](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite&theme=dark)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🔧 Godspeed — Backend & DB**
+
+[![](https://skillicons.dev/icons?i=nodejs,nestjs,express,postgresql,mongodb&theme=dark)](https://skillicons.dev)
+
+</td>
+<td align="center">
+
+**🗡️ Assassination Arts — DevOps**
+
+[![](https://skillicons.dev/icons?i=docker,aws,git,linux,github,figma,vscode&theme=dark)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                     QUOTE SECTION                         -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
@@ -98,6 +164,26 @@
 </td>
 <td width="62%" align="left" valign="middle">
 
+<br/>
+
+```
+  ╔═══════════════════════════════════════════╗
+  ║                                           ║
+  ║  「やりたいことを全力でやって、            ║
+  ║    後悔はしたくない。」                    ║
+  ║                                           ║
+  ║  "I want to do what I want               ║
+  ║   with all my might —                    ║
+  ║   I don't want any regrets."             ║
+  ║                                           ║
+  ║                   ⚡ Killua Zoldyck       ║
+  ╚═══════════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
@@ -105,9 +191,7 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                    CONNECT SECTION                        -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -118,7 +202,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1800&pause=700&color=00D4FF&center=true&vCenter=true&width=480&height=28&lines=%3E+Initializing+contact+channels...;%3E+Signal+locked+%E2%80%94+all+systems+go+%E2%9A%A1;%3E+Godspeed+mode+ON+%7C+Ready+to+connect" alt="terminal-typing"/>
 
-`<br/><br/>`
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/khomkrit-daengnuan/">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect%20Now%20%E2%86%97-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003d5c" width="560"/>
@@ -154,16 +238,14 @@
 <img src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work%20%E2%86%97-00d4ff?style=for-the-badge&logo=todoist&logoColor=050d2e&labelColor=005580" width="560"/>
 </a>
 
-`<br/><br/>`
+<br/><br/>
 
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                       FOOTER                              -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
@@ -173,7 +255,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=2000&color=4a9aba&center=true&vCenter=true&width=600&height=28&lines=Thanks+for+stopping+by+%E2%80%94+hope+to+build+something+together+someday+%E2%9A%A1" alt="footer-text"/>
 
-`<br/><br/>`
+<br/><br/>
 
 </div>
 
