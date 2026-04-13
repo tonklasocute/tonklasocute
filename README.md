@@ -196,27 +196,66 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <div align="center">
 
-<h2>⚡ &nbsp;Connect With Me</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1%20CONNECT%20WITH%20ME%20%E2%9A%A1&fontSize=32&fontColor=00d4ff&fontAlignY=52&animation=twinkling&desc=Transmitting+Signal+%E2%80%94+Let%27s+Build+Something+Legendary&descSize=13&descColor=4a9aba&descAlignY=78" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhomkritTK)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=900&color=4a9aba&center=true&vCenter=true&width=620&height=28&lines=%E2%9A%A1+Godspeed+transmission+active+%E2%80%94+Ping+me+anytime;%F0%9F%97%A1%EF%B8%8F+Assassin+turned+dev+%7C+Always+open+for+collab;%F0%9F%8C%99+Best+reached+after+midnight+%7C+Response+time%3A+Godspeed" alt="connect-typing"/>
 
 <br/><br/>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
-&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.dev)
+<table border="0" cellspacing="0" cellpadding="16">
+<tr>
+<td align="center">
+<a href="https://linkedin.com/in/your-profile">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/><br/>
+<img src="https://img.shields.io/badge/Professional_Network-0a2540?style=flat-square&labelColor=0a2540&color=0a2540&logoColor=white" height="20"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/KhomkritTK">
+<img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff" height="38"/><br/>
+<img src="https://img.shields.io/badge/Open_Source_Hunter-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" height="20"/>
+</a>
+</td>
+<td align="center">
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38"/><br/>
+<img src="https://img.shields.io/badge/Drop_a_Message-3b0f0a?style=flat-square&labelColor=3b0f0a&color=3b0f0a" height="20"/>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://facebook.com/your-profile">
+<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="38"/><br/>
+<img src="https://img.shields.io/badge/Social_Realm-0a1f4d?style=flat-square&labelColor=0a1f4d&color=0a1f4d" height="20"/>
+</a>
+</td>
+<td align="center">
+<a href="https://discord.com/users/your-id">
+<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="38"/><br/>
+<img src="https://img.shields.io/badge/Gaming_%26_Dev_Chat-12133a?style=flat-square&labelColor=12133a&color=12133a" height="20"/>
+</a>
+</td>
+<td align="center">
+<a href="https://your-portfolio.dev">
+<img src="https://img.shields.io/badge/PORTFOLIO-00d4ff?style=for-the-badge&logo=todoist&logoColor=050d2e" height="38"/><br/>
+<img src="https://img.shields.io/badge/My_Work_%26_Projects-020d1f?style=flat-square&labelColor=020d1f&color=020d1f" height="20"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="55%"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=KhomkritTK&color=00d4ff&style=for-the-badge&label=%E2%9A%A1+PROFILE+VIEWS"/>
 
 <br/><br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=KhomkritTK&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
