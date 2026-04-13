@@ -196,44 +196,46 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020209,25:030e1e,50:041428,75:030e1e,100:020209&section=header&text=%E2%9A%A1+CONNECT+WITH+ME&fontSize=40&fontColor=00d4ff&animation=twinkling&fontAlignY=55&desc=Always+open+for+collaboration+%E2%80%A2+Let%27s+build+something+legendary+together&descSize=14&descColor=4a9aba&descAlignY=76" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020209,20:030c1a,50:051830,80:030c1a,100:020209&section=header&text=%E2%9A%A1+CONNECT+WITH+ME&fontSize=44&fontColor=00d4ff&animation=twinkling&fontAlignY=50&desc=Transmitting+signal+%E2%80%94+always+open+for+collaboration&descSize=15&descColor=4a9aba&descAlignY=73" width="100%"/>
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="10">
+<table border="0" cellspacing="10" cellpadding="0">
 <tr>
-<td align="right" width="50%">
+<td>
 <a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect%20Now%20%E2%86%97-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003d5c" height="44"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:001520,40:005f9e,100:001520&text=LINKEDIN&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=Professional+Network+%E2%86%97&descSize=13&descColor=a0d0f0&descAlignY=70" width="295"/>
 </a>
 </td>
-<td align="left" width="50%">
+<td>
 <a href="https://github.com/KhomkritTK">
-<img src="https://img.shields.io/badge/GITHUB-%40KhomkritTK%20%E2%86%97-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117" height="44"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:07090f,40:1a2535,100:07090f&text=GITHUB&fontSize=22&fontColor=00d4ff&fontAlignY=40&desc=%40KhomkritTK+%E2%86%97&descSize=13&descColor=4a9aba&descAlignY=70" width="295"/>
 </a>
 </td>
 </tr>
+<tr><td colspan="2" height="2"/></tr>
 <tr>
-<td align="right">
+<td>
 <a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-Send%20a%20Message%20%E2%86%97-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7a1810" height="44"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:180000,40:c0392b,100:180000&text=GMAIL&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=Send+a+Message+%E2%86%97&descSize=13&descColor=ffb8b0&descAlignY=70" width="295"/>
 </a>
 </td>
-<td align="left">
+<td>
 <a href="https://facebook.com/your-profile">
-<img src="https://img.shields.io/badge/FACEBOOK-Add%20Friend%20%E2%86%97-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a3580" height="44"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:000d30,40:1877F2,100:000d30&text=FACEBOOK&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=Add+Friend+%E2%86%97&descSize=13&descColor=aac8ff&descAlignY=70" width="295"/>
 </a>
 </td>
 </tr>
+<tr><td colspan="2" height="2"/></tr>
 <tr>
-<td align="right">
+<td>
 <a href="https://discord.com/users/your-id">
-<img src="https://img.shields.io/badge/DISCORD-Join%20Server%20%E2%86%97-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c3399" height="44"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:0a0c38,40:5865F2,100:0a0c38&text=DISCORD&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=Join+Server+%E2%86%97&descSize=13&descColor=c0c8ff&descAlignY=70" width="295"/>
 </a>
 </td>
-<td align="left">
+<td>
 <a href="https://your-portfolio.dev">
-<img src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work%20%E2%86%97-00d4ff?style=for-the-badge&logo=todoist&logoColor=050d2e&labelColor=005580" height="44"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:001520,40:009ec0,100:001520&text=PORTFOLIO&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=View+My+Work+%E2%86%97&descSize=13&descColor=90e8ff&descAlignY=70" width="295"/>
 </a>
 </td>
 </tr>
