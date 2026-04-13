@@ -35,10 +35,10 @@
 
 <br/>
 
-[![](https://img.shields.io/badge/-%E2%9A%A1_TRANSMUTER-050d2e?style=for-the-badge&labelColor=050d2e&color=00d4ff&label=%E2%9A%A1+NEN+TYPE)](https://github.com/KhomkritTK)
-[![](https://img.shields.io/badge/ASSASSIN_%E2%86%92_HUNTER-050d2e?style=for-the-badge&label=%F0%9F%97%A1%EF%B8%8F+CLASS&labelColor=050d2e&color=00d4ff)](https://github.com/KhomkritTK)
-[![](https://img.shields.io/badge/THAILAND_%F0%9F%87%B9%F0%9F%87%AD-050d2e?style=for-the-badge&label=%F0%9F%93%8D+ORIGIN&labelColor=050d2e&color=00d4ff)](https://github.com/KhomkritTK)
-[![](https://komarev.com/ghpvc/?username=KhomkritTK&color=00d4ff&style=for-the-badge&label=%E2%9A%A1+VISITORS)](https://github.com/KhomkritTK)
+[![](https://img.shields.io/badge/-%E2%9A%A1_TRANSMUTER-050d2e?style=for-the-badge&labelColor=050d2e&color=00d4ff&label=%E2%9A%A1+NEN+TYPE)](https://github.com/tonklasocute)
+[![](https://img.shields.io/badge/ASSASSIN_%E2%86%92_HUNTER-050d2e?style=for-the-badge&label=%F0%9F%97%A1%EF%B8%8F+CLASS&labelColor=050d2e&color=00d4ff)](https://github.com/tonklasocute)
+[![](https://img.shields.io/badge/THAILAND_%F0%9F%87%B9%F0%9F%87%AD-050d2e?style=for-the-badge&label=%F0%9F%93%8D+ORIGIN&labelColor=050d2e&color=00d4ff)](https://github.com/tonklasocute)
+[![](https://komarev.com/ghpvc/?username=tonklasocute&color=00d4ff&style=for-the-badge&label=%E2%9A%A1+VISITORS)](https://github.com/tonklasocute)
 
 </div>
 
@@ -210,8 +210,8 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <br/>
 
-<a href="https://github.com/KhomkritTK">
-<img src="https://img.shields.io/badge/GITHUB-%40KhomkritTK%20%E2%86%97-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117" width="560"/>
+<a href="https://github.com/tonklasocute">
+<img src="https://img.shields.io/badge/GITHUB-%40tonklasocute%20%E2%86%97-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117" width="560"/>
 </a>
 
 <br/>
@@ -234,7 +234,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <br/>
 
-<a href="https://github.com/KhomkritTK/portfolio">
+<a href="https://github.com/tonklasocute/portfolio">
 <img src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work%20%E2%86%97-00d4ff?style=for-the-badge&logo=todoist&logoColor=050d2e&labelColor=005580" width="560"/>
 </a>
 
