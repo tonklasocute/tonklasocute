@@ -196,52 +196,49 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020209,20:030c1a,50:051830,80:030c1a,100:020209&section=header&text=%E2%9A%A1+CONNECT+WITH+ME&fontSize=44&fontColor=00d4ff&animation=twinkling&fontAlignY=50&desc=Transmitting+signal+%E2%80%94+always+open+for+collaboration&descSize=15&descColor=4a9aba&descAlignY=73" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020209,20:040f20,55:051a34,80:040f20,100:020209&section=header&text=%E2%9A%A1+CONNECT+WITH+ME&fontSize=46&fontColor=00d4ff&animation=twinkling&fontAlignY=50&desc=Transmitting+signal+%E2%80%94+always+open+for+collaboration&descSize=15&descColor=4a9aba&descAlignY=73" width="100%"/>
 
 <br/>
 
-<table border="0" cellspacing="10" cellpadding="0">
-<tr>
-<td>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1800&pause=700&color=00D4FF&center=true&vCenter=true&width=480&height=28&lines=%3E+Initializing+contact+channels...;%3E+Signal+locked+%E2%80%94+all+systems+go+%E2%9A%A1;%3E+Godspeed+mode+ON+%7C+Ready+to+connect" alt="terminal-typing"/>
+
+<br/><br/>
+
 <a href="https://linkedin.com/in/your-profile">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:001520,40:005f9e,100:001520&text=LINKEDIN&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=Professional+Network+%E2%86%97&descSize=13&descColor=a0d0f0&descAlignY=70" width="295"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:001828,50:006EB3,100:001828&text=LINKEDIN+%E2%80%94+Professional+Network+%E2%86%97&fontSize=17&fontColor=ffffff&fontAlignY=55" width="66%"/>
 </a>
-</td>
-<td>
-<a href="https://github.com/KhomkritTK">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:07090f,40:1a2535,100:07090f&text=GITHUB&fontSize=22&fontColor=00d4ff&fontAlignY=40&desc=%40KhomkritTK+%E2%86%97&descSize=13&descColor=4a9aba&descAlignY=70" width="295"/>
-</a>
-</td>
-</tr>
-<tr><td colspan="2" height="2"/></tr>
-<tr>
-<td>
-<a href="mailto:your-email@gmail.com">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:180000,40:c0392b,100:180000&text=GMAIL&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=Send+a+Message+%E2%86%97&descSize=13&descColor=ffb8b0&descAlignY=70" width="295"/>
-</a>
-</td>
-<td>
-<a href="https://facebook.com/your-profile">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:000d30,40:1877F2,100:000d30&text=FACEBOOK&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=Add+Friend+%E2%86%97&descSize=13&descColor=aac8ff&descAlignY=70" width="295"/>
-</a>
-</td>
-</tr>
-<tr><td colspan="2" height="2"/></tr>
-<tr>
-<td>
-<a href="https://discord.com/users/your-id">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:0a0c38,40:5865F2,100:0a0c38&text=DISCORD&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=Join+Server+%E2%86%97&descSize=13&descColor=c0c8ff&descAlignY=70" width="295"/>
-</a>
-</td>
-<td>
-<a href="https://your-portfolio.dev">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:001520,40:009ec0,100:001520&text=PORTFOLIO&fontSize=22&fontColor=ffffff&fontAlignY=40&desc=View+My+Work+%E2%86%97&descSize=13&descColor=90e8ff&descAlignY=70" width="295"/>
-</a>
-</td>
-</tr>
-</table>
 
 <br/>
+
+<a href="https://github.com/KhomkritTK">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:0a0d12,50:2a4d72,100:0a0d12&text=GITHUB+%E2%80%94+%40KhomkritTK+%E2%86%97&fontSize=17&fontColor=00d4ff&fontAlignY=55" width="66%"/>
+</a>
+
+<br/>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:200000,50:DD4B39,100:200000&text=GMAIL+%E2%80%94+Send+a+Message+%E2%86%97&fontSize=17&fontColor=ffffff&fontAlignY=55" width="66%"/>
+</a>
+
+<br/>
+
+<a href="https://facebook.com/your-profile">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:001040,50:2196F3,100:001040&text=FACEBOOK+%E2%80%94+Add+Friend+%E2%86%97&fontSize=17&fontColor=ffffff&fontAlignY=55" width="66%"/>
+</a>
+
+<br/>
+
+<a href="https://discord.com/users/your-id">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:0d0e38,50:7289DA,100:0d0e38&text=DISCORD+%E2%80%94+Join+Server+%E2%86%97&fontSize=17&fontColor=ffffff&fontAlignY=55" width="66%"/>
+</a>
+
+<br/>
+
+<a href="https://your-portfolio.dev">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:001825,50:00BCD4,100:001825&text=PORTFOLIO+%E2%80%94+View+My+Work+%E2%86%97&fontSize=17&fontColor=ffffff&fontAlignY=55" width="66%"/>
+</a>
+
+<br/><br/>
 
 </div>
 
