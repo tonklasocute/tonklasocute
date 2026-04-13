@@ -196,66 +196,50 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1%20CONNECT%20WITH%20ME%20%E2%9A%A1&fontSize=32&fontColor=00d4ff&fontAlignY=52&animation=twinkling&desc=Transmitting+Signal+%E2%80%94+Let%27s+Build+Something+Legendary&descSize=13&descColor=4a9aba&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020209,25:030e1e,50:041428,75:030e1e,100:020209&section=header&text=%E2%9A%A1+CONNECT+WITH+ME&fontSize=40&fontColor=00d4ff&animation=twinkling&fontAlignY=55&desc=Always+open+for+collaboration+%E2%80%A2+Let%27s+build+something+legendary+together&descSize=14&descColor=4a9aba&descAlignY=76" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=900&color=4a9aba&center=true&vCenter=true&width=620&height=28&lines=%E2%9A%A1+Godspeed+transmission+active+%E2%80%94+Ping+me+anytime;%F0%9F%97%A1%EF%B8%8F+Assassin+turned+dev+%7C+Always+open+for+collab;%F0%9F%8C%99+Best+reached+after+midnight+%7C+Response+time%3A+Godspeed" alt="connect-typing"/>
-
-<br/><br/>
-
-<table border="0" cellspacing="0" cellpadding="16">
+<table border="0" cellspacing="0" cellpadding="10">
 <tr>
-<td align="center">
+<td align="right" width="50%">
 <a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/><br/>
-<img src="https://img.shields.io/badge/Professional_Network-0a2540?style=flat-square&labelColor=0a2540&color=0a2540&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect%20Now%20%E2%86%97-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003d5c" height="44"/>
 </a>
 </td>
-<td align="center">
+<td align="left" width="50%">
 <a href="https://github.com/KhomkritTK">
-<img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff" height="38"/><br/>
-<img src="https://img.shields.io/badge/Open_Source_Hunter-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" height="20"/>
-</a>
-</td>
-<td align="center">
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38"/><br/>
-<img src="https://img.shields.io/badge/Drop_a_Message-3b0f0a?style=flat-square&labelColor=3b0f0a&color=3b0f0a" height="20"/>
+<img src="https://img.shields.io/badge/GITHUB-%40KhomkritTK%20%E2%86%97-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117" height="44"/>
 </a>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="right">
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-Send%20a%20Message%20%E2%86%97-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7a1810" height="44"/>
+</a>
+</td>
+<td align="left">
 <a href="https://facebook.com/your-profile">
-<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="38"/><br/>
-<img src="https://img.shields.io/badge/Social_Realm-0a1f4d?style=flat-square&labelColor=0a1f4d&color=0a1f4d" height="20"/>
+<img src="https://img.shields.io/badge/FACEBOOK-Add%20Friend%20%E2%86%97-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a3580" height="44"/>
 </a>
 </td>
-<td align="center">
+</tr>
+<tr>
+<td align="right">
 <a href="https://discord.com/users/your-id">
-<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="38"/><br/>
-<img src="https://img.shields.io/badge/Gaming_%26_Dev_Chat-12133a?style=flat-square&labelColor=12133a&color=12133a" height="20"/>
+<img src="https://img.shields.io/badge/DISCORD-Join%20Server%20%E2%86%97-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c3399" height="44"/>
 </a>
 </td>
-<td align="center">
+<td align="left">
 <a href="https://your-portfolio.dev">
-<img src="https://img.shields.io/badge/PORTFOLIO-00d4ff?style=for-the-badge&logo=todoist&logoColor=050d2e" height="38"/><br/>
-<img src="https://img.shields.io/badge/My_Work_%26_Projects-020d1f?style=flat-square&labelColor=020d1f&color=020d1f" height="20"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work%20%E2%86%97-00d4ff?style=for-the-badge&logo=todoist&logoColor=050d2e&labelColor=005580" height="44"/>
 </a>
 </td>
 </tr>
 </table>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="55%"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=KhomkritTK&color=00d4ff&style=for-the-badge&label=%E2%9A%A1+PROFILE+VIEWS"/>
-
-<br/><br/>
 
 </div>
 
