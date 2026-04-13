@@ -204,7 +204,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/khomkrit-daengnuan/">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect%20Now%20%E2%86%97-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003d5c" width="560"/>
 </a>
 
@@ -216,19 +216,19 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <br/>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:khomkrit.d@outlook.com">
 <img src="https://img.shields.io/badge/GMAIL-Send%20a%20Message%20%E2%86%97-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7a1810" width="560"/>
 </a>
 
 <br/>
 
-<a href="https://facebook.com/your-profile">
+<a href="https://www.facebook.com/ton.kla.18488">
 <img src="https://img.shields.io/badge/FACEBOOK-Add%20Friend%20%E2%86%97-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a3580" width="560"/>
 </a>
 
 <br/>
 
-<a href="https://discord.com/users/your-id">
+<a href="https://discord.com/users/734421230270283812">
 <img src="https://img.shields.io/badge/DISCORD-Join%20Server%20%E2%86%97-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c3399" width="560"/>
 </a>
 
