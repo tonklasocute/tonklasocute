@@ -72,7 +72,7 @@
 
 ### ⚡ &nbsp;こんにちは — Hi there!
 
-I'm **Khomkrit Dangnuan**, a passionate **Full Stack Developer** from 🇹🇭 Thailand with a love for building clean, fast, and beautiful web applications.
+I'm **Khomkrit Dangnuan**, a passionate **Full Stack Developer** from Thailand with a love for building clean, fast, and beautiful web applications.
 
 Like Killua, I believe in pushing limits — whether it's optimizing a slow query or crafting pixel-perfect UI. I work with modern JavaScript ecosystems and love turning complex problems into elegant solutions.
 
@@ -88,7 +88,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 ```
   ⚡  Frontend Development    →  React, Next.js, Vue, Tailwind CSS
   ⚡  Backend Development     →  Node.js, NestJS, REST & GraphQL APIs
-  ⚡  Database                →  PostgreSQL, MongoDB, Redis
+  ⚡  Database                →  PostgreSQL, MongoDB, Redis, MYSQL
   ⚡  DevOps & Cloud          →  Docker, AWS, CI/CD pipelines
   ⚡  UI/UX Thinking          →  Figma, responsive & accessible design
 ```
