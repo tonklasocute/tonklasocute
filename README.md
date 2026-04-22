@@ -72,13 +72,13 @@
 
 ### ⚡ &nbsp;こんにちは — Hi there!
 
-I'm **Khomkrit**, a passionate **Full Stack Developer** from 🇹🇭 Thailand with a love for building clean, fast, and beautiful web applications.
+I'm **Khomkrit Dangnuan**, a passionate **Full Stack Developer** from 🇹🇭 Thailand with a love for building clean, fast, and beautiful web applications.
 
 Like Killua, I believe in pushing limits — whether it's optimizing a slow query or crafting pixel-perfect UI. I work with modern JavaScript ecosystems and love turning complex problems into elegant solutions.
 
 **🔭 Currently working on** — scalable web apps & e-service platforms  
-**🌱 Always learning** — Cloud architecture, AI integration & new frameworks  
-**🎯 I care about** — Clean code · Great UX · Team collaboration  
+**🌱 Exploring** — Cloud architecture, AI integration & new frameworks  
+**🎯 Focused on** — performance · clean architecture · meaningful UX  
 **🌙 Fun fact** — My best commits happen after midnight 🍫  
 
 <br/>
