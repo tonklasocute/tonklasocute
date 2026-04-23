@@ -68,11 +68,13 @@
 
 <br/>
 
-![](https://img.shields.io/badge/%E2%9A%A1%20ROLE-Full%20Stack%20Developer-00d4ff?style=flat-square&labelColor=050d2e&color=003d5c)
+[![](https://img.shields.io/badge/%E2%9A%A1_ROLE-Full_Stack_Dev-003d5c?style=for-the-badge&labelColor=050d2e)](https://github.com/tonklasocute)
 
-<br/>
+[![](https://img.shields.io/badge/%F0%9F%93%8D_ORIGIN-Thailand_%F0%9F%87%B9%F0%9F%87%AD-003d5c?style=for-the-badge&labelColor=050d2e)](https://github.com/tonklasocute)
 
-![](https://img.shields.io/badge/%F0%9F%93%8D%20LOCATION-Thailand%20%F0%9F%87%B9%F0%9F%87%AD-00d4ff?style=flat-square&labelColor=050d2e&color=003d5c)
+[![](https://img.shields.io/badge/%E2%9A%A1_NEN_TYPE-Transmuter-003d5c?style=for-the-badge&labelColor=050d2e)](https://github.com/tonklasocute)
+
+[![](https://img.shields.io/badge/%E2%97%8F_STATUS-ONLINE-003d5c?style=for-the-badge&labelColor=050d2e)](https://github.com/tonklasocute)
 
 <br/>
 
