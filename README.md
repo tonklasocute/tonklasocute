@@ -64,9 +64,6 @@
 
 <br/>
 
-<sub>Full Stack Developer • Thailand</sub>
-
-<br/><br/>
 
 [![](https://img.shields.io/badge/%E2%9A%A1_ROLE-Full%20Stack-003d5c?style=flat-square&labelColor=050d2e&color=005b84)](https://github.com/tonklasocute)
 
