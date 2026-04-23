@@ -60,8 +60,8 @@
 
 <br/><br/>
 
-![](https://img.shields.io/badge/Khomkrit Daengnuan-Dev-00d4ff?style=flat-square&labelColor=050d2e)
-![](https://img.shields.io/badge/Thailand-🇹🇭-00d4ff?style=flat-square&labelColor=050d2e)
+![](https://img.shields.io/badge/%E2%9C%A6%20IDENTITY-Khomkrit%20Dangnuan-00d4ff?style=for-the-badge&labelColor=050d2e&color=003d5c)
+![](https://img.shields.io/badge/%F0%9F%93%8D%20BASED%20IN-Thailand%20%F0%9F%87%B9%F0%9F%87%AD-4a9aba?style=for-the-badge&labelColor=050d2e&color=003d5c)
 
 <br/>
 
