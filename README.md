@@ -60,20 +60,21 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=2600&pause=2200&color=00D4FF&center=true&vCenter=true&repeat=true&width=240&height=24&lines=Khomkrit+Dangnuan" alt="Khomkrit Dangnuan"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=19&duration=3200&pause=2800&color=00D4FF&center=true&vCenter=true&repeat=true&width=260&height=34&lines=KHOMKRIT+DANGNUAN" alt="Khomkrit Dangnuan"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=12&duration=3200&pause=2800&color=4A9ABA&center=true&vCenter=true&repeat=true&width=260&height=20&lines=%E2%9A%A1+Full+Stack+Developer" alt="role"/>
 
 <br/>
 
-
-[![](https://img.shields.io/badge/%E2%9A%A1_ROLE-Full%20Stack-003d5c?style=flat-square&labelColor=050d2e&color=005b84)](https://github.com/tonklasocute)
-
-<br/>
-
-[![](https://img.shields.io/badge/%F0%9F%93%8D_ORIGIN-Thailand-003d5c?style=flat-square&labelColor=050d2e&color=005b84)](https://github.com/tonklasocute)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:020209,30:003d5c,50:00d4ff,70:003d5c,100:020209" width="75%"/>
 
 <br/>
 
-[![](https://img.shields.io/badge/%E2%9A%A1_NEN-Transmuter-003d5c?style=flat-square&labelColor=050d2e&color=005b84)](https://github.com/tonklasocute)
+[![](https://img.shields.io/badge/NEN_TYPE-TRANSMUTER-00d4ff?style=for-the-badge&labelColor=050d2e)](https://github.com/tonklasocute)
+
+[![](https://img.shields.io/badge/ORIGIN-THAILAND_%F0%9F%87%B9%F0%9F%87%AD-005b84?style=for-the-badge&labelColor=050d2e)](https://github.com/tonklasocute)
+
+[![](https://img.shields.io/badge/CLASS-STAR_HUNTER-003366?style=for-the-badge&labelColor=050d2e)](https://github.com/tonklasocute)
 
 
 </td>
