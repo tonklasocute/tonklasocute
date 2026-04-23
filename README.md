@@ -60,13 +60,19 @@
 
 <br/><br/>
 
-<sub><b>Khomkrit Dangnuan</b> • Full Stack Developer from Thailand</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209&text=%E2%9C%A6+KHOMKRIT+DANGNUAN+%E2%9C%A6&fontSize=13&fontColor=00d4ff&fontAlignY=66" width="92%"/>
 
-<br/><br/>
+<br/>
 
-![](https://img.shields.io/badge/Developer-Full%20Stack-00d4ff?style=flat-square&labelColor=050d2e&color=00d4ff)
-&nbsp;
-![](https://img.shields.io/badge/Based%20in-Thailand%20%F0%9F%87%B9%F0%9F%87%AD-00d4ff?style=flat-square&labelColor=050d2e&color=00d4ff)
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=12&duration=2600&pause=2400&color=7EAEC8&center=true&vCenter=true&repeat=true&width=260&height=22&lines=Full+Stack+Developer+%E2%80%A2+Thailand" alt="mini-intro"/>
+
+<br/>
+
+![](https://img.shields.io/badge/%E2%9A%A1%20ROLE-Full%20Stack%20Developer-00d4ff?style=flat-square&labelColor=050d2e&color=003d5c)
+
+<br/>
+
+![](https://img.shields.io/badge/%F0%9F%93%8D%20LOCATION-Thailand%20%F0%9F%87%B9%F0%9F%87%AD-00d4ff?style=flat-square&labelColor=050d2e&color=003d5c)
 
 <br/>
 
