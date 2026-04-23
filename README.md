@@ -107,42 +107,62 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <div align="center">
 
-<h2>⚡ &nbsp;念能力 &nbsp;— Tech Stack</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+TECH+STACK&fontSize=32&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=%E5%BF%B5%E8%83%BD%E5%8A%9B+%E2%80%94+Tools+of+a+Star+Hunter&descSize=14&descColor=4a9aba&descAlign=50&descAlignY=70" width="100%"/>
+
+<br/>
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
-**⚡ Thunderbolt — Languages**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:020209,50:050d2e,100:020209&text=%E2%9A%A1+THUNDERBOLT+%E2%80%94+Languages&fontSize=11&fontColor=7eaec8&fontAlignY=65" width="88%"/>
 
-[![](https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark)](https://skillicons.dev)
+<br/>
+
+[![](https://skillicons.dev/icons?i=ts,js,go,py,html,css&theme=dark)](https://skillicons.dev)
+
+<br/>
 
 </td>
-<td align="center">
+<td align="center" width="50%">
 
-**🌩️ Lightning Palm — Frontend**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:020209,50:050d2e,100:020209&text=LIGHTNING+PALM+%E2%80%94+Frontend&fontSize=11&fontColor=7eaec8&fontAlignY=65" width="88%"/>
+
+<br/>
 
 [![](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite&theme=dark)](https://skillicons.dev)
+
+<br/>
 
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
-**🔧 Godspeed — Backend & DB**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:020209,50:050d2e,100:020209&text=%E2%9A%A1+GODSPEED+%E2%80%94+Backend+%26+DB&fontSize=11&fontColor=7eaec8&fontAlignY=65" width="88%"/>
 
-[![](https://skillicons.dev/icons?i=nodejs,nestjs,express,postgresql,mongodb&theme=dark)](https://skillicons.dev)
+<br/>
+
+[![](https://skillicons.dev/icons?i=nodejs,nestjs,express,go,postgresql,mysql,mongodb&theme=dark)](https://skillicons.dev)
+
+<br/>
 
 </td>
-<td align="center">
+<td align="center" width="50%">
 
-**🗡️ Assassination Arts — DevOps**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:020209,50:050d2e,100:020209&text=ASSASSINATION+ARTS+%E2%80%94+DevOps&fontSize=11&fontColor=7eaec8&fontAlignY=65" width="88%"/>
+
+<br/>
 
 [![](https://skillicons.dev/icons?i=docker,aws,git,linux,github,figma,vscode&theme=dark)](https://skillicons.dev)
+
+<br/>
 
 </td>
 </tr>
 </table>
+
+<br/>
 
 </div>
 
