@@ -60,20 +60,23 @@
 
 <br/>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=14&duration=2600&pause=2400&color=7EAEC8&center=true&vCenter=true&repeat=true&width=260&height=22&lines=Full+Stack+Developer+%E2%80%A2+Thailand" alt="mini-intro"/>
-
-<br/>
-
-[![](https://img.shields.io/badge/%E2%9A%A1_ROLE-Full_Stack_Dev-003d5c?style=for-the-badge&labelColor=050d2e&color=005b84)](https://github.com/tonklasocute)
+<sub><b>Khomkrit Dangnuan</b></sub>
 
 <br/>
 
-[![](https://img.shields.io/badge/%F0%9F%93%8D_ORIGIN-Thailand_%F0%9F%87%B9%F0%9F%87%AD-003d5c?style=for-the-badge&labelColor=050d2e&color=005b84)](https://github.com/tonklasocute)
+<sub>Full Stack Developer • Thailand</sub>
+
+<br/><br/>
+
+[![](https://img.shields.io/badge/%E2%9A%A1_ROLE-Full%20Stack-003d5c?style=flat-square&labelColor=050d2e&color=005b84)](https://github.com/tonklasocute)
 
 <br/>
 
-[![](https://img.shields.io/badge/%E2%9A%A1_NEN_TYPE-Transmuter-003d5c?style=for-the-badge&labelColor=050d2e&color=005b84)](https://github.com/tonklasocute)
+[![](https://img.shields.io/badge/%F0%9F%93%8D_ORIGIN-Thailand-003d5c?style=flat-square&labelColor=050d2e&color=005b84)](https://github.com/tonklasocute)
+
+<br/>
+
+[![](https://img.shields.io/badge/%E2%9A%A1_NEN-Transmuter-003d5c?style=flat-square&labelColor=050d2e&color=005b84)](https://github.com/tonklasocute)
 
 
 </td>
