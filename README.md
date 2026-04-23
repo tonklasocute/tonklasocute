@@ -114,7 +114,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+TECH+STACK&fontSize=32&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=%E5%BF%B5%E8%83%BD%E5%8A%9B+%E2%80%94+Tools+of+a+Star+Hunter&descSize=14&descColor=4a9aba&descAlign=50&descAlignY=70" width="100%"/>
 
-<br/>
+<br/> <br/> <br/> <br/>
 
 <table border="0" cellpadding="20" cellspacing="0">
 <tr>
