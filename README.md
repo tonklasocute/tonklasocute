@@ -299,7 +299,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=132&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+THANKS+FOR+SCROLLING&fontSize=38&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=fadeIn&desc=Designing+with+intent+%E2%80%A2+Building+with+speed+%E2%80%A2+Shipping+with+care&descSize=15&descColor=7eaec8&descAlign=50&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+THANKS+FOR+SCROLLING&fontSize=38&fontColor=00d4ff&fontAlign=50&fontAlignY=48&animation=twinkling&desc=Designing+with+intent+%E2%80%A2+Building+with+speed+%E2%80%A2+Shipping+with+care&descSize=15&descColor=7eaec8&descAlign=50&descAlignY=74" width="100%"/>
 
 <br/><br/>
 
