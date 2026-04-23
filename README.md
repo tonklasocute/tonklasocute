@@ -60,7 +60,7 @@
 
 <br/><br/>
 
-![](https://img.shields.io/badge/Khomkrit_TK-Dev-00d4ff?style=flat-square&labelColor=050d2e)
+![](https://img.shields.io/badge/Khomkrit Daengnuan-Dev-00d4ff?style=flat-square&labelColor=050d2e)
 ![](https://img.shields.io/badge/Thailand-🇹🇭-00d4ff?style=flat-square&labelColor=050d2e)
 
 <br/>
