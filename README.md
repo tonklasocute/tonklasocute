@@ -87,8 +87,8 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 ```
   ⚡  Frontend Development    →  React, Next.js, Vue, Tailwind CSS
-  ⚡  Backend Development     →  Node.js, NestJS, REST & GraphQL APIs
-  ⚡  Database                →  PostgreSQL, MongoDB, Redis, MYSQL
+  ⚡  Backend Development     →  Node.js, NestJS, Go (Golang), REST & GraphQL APIs
+  ⚡  Database                →  PostgreSQL, MySQL, MongoDB, Redis
   ⚡  DevOps & Cloud          →  Docker, AWS, CI/CD pipelines
   ⚡  UI/UX Thinking          →  Figma, responsive & accessible design
 ```
@@ -111,60 +111,65 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:020209,50:050d2e,100:020209&text=%E2%9A%A1+THUNDERBOLT+%E2%80%94+Languages&fontSize=11&fontColor=7eaec8&fontAlignY=65" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:020209,40:050d2e,60:050d2e,100:020209&text=%E2%9A%A1+THUNDERBOLT+%7C+Languages&fontSize=12&fontColor=7eaec8&fontAlignY=65" width="52%"/>
 
 <br/>
 
 [![](https://skillicons.dev/icons?i=ts,js,go,py,html,css&theme=dark)](https://skillicons.dev)
 
-<br/>
+<br/><br/>
 
-</td>
-<td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:020209,50:050d2e,100:020209&text=LIGHTNING+PALM+%E2%80%94+Frontend&fontSize=11&fontColor=7eaec8&fontAlignY=65" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:020209,40:050d2e,60:050d2e,100:020209&text=LIGHTNING+PALM+%7C+Frontend&fontSize=12&fontColor=7eaec8&fontAlignY=65" width="52%"/>
 
 <br/>
 
 [![](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite&theme=dark)](https://skillicons.dev)
 
-<br/>
+<br/><br/>
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:020209,50:050d2e,100:020209&text=%E2%9A%A1+GODSPEED+%E2%80%94+Backend+%26+DB&fontSize=11&fontColor=7eaec8&fontAlignY=65" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:020209,40:050d2e,60:050d2e,100:020209&text=%E2%9A%A1+GODSPEED+%7C+Backend+%26+DB&fontSize=12&fontColor=7eaec8&fontAlignY=65" width="52%"/>
 
 <br/>
 
 [![](https://skillicons.dev/icons?i=nodejs,nestjs,express,go,postgresql,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
-<br/>
+<br/><br/>
 
-</td>
-<td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:020209,50:050d2e,100:020209&text=ASSASSINATION+ARTS+%E2%80%94+DevOps&fontSize=11&fontColor=7eaec8&fontAlignY=65" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:020209,40:050d2e,60:050d2e,100:020209&text=ASSASSINATION+ARTS+%7C+DevOps&fontSize=12&fontColor=7eaec8&fontAlignY=65" width="52%"/>
 
 <br/>
 
 [![](https://skillicons.dev/icons?i=docker,aws,git,linux,github,figma,vscode&theme=dark)](https://skillicons.dev)
 
-<br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br/><br/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS                           -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+COMBAT+DATA&fontSize=32&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=GitHub+Stats+%E2%80%94+Tracking+Every+Battle&descSize=14&descColor=4a9aba&descAlign=50&descAlignY=70" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=tonklasocute&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=7eaec8&bg_color=020209&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tonklasocute&theme=transparent&hide_border=true&ring=00d4ff&fire=4a9aba&currStreakLabel=00d4ff&sideLabels=4a9aba&dates=7eaec8&background=020209&stroke=050d2e" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonklasocute&bg_color=020209&color=00d4ff&line=4a9aba&point=00d4ff&area=true&area_color=050d2e&hide_border=true" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
 
 <br/>
 
@@ -223,41 +228,58 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <br/><br/>
 
+<table border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td align="center">
+
 <a href="https://www.linkedin.com/in/khomkrit-daengnuan/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect%20Now%20%E2%86%97-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003d5c" width="560"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect%20Now%20%E2%86%97-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003d5c" width="280"/>
 </a>
 
-<br/>
+</td>
+<td align="center">
 
 <a href="https://github.com/tonklasocute">
-<img src="https://img.shields.io/badge/GITHUB-%40tonklasocute%20%E2%86%97-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117" width="560"/>
+<img src="https://img.shields.io/badge/GITHUB-%40tonklasocute%20%E2%86%97-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117" width="280"/>
 </a>
 
-<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
 
 <a href="mailto:khomkrit.d@outlook.com">
-<img src="https://img.shields.io/badge/GMAIL-Send%20a%20Message%20%E2%86%97-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7a1810" width="560"/>
+<img src="https://img.shields.io/badge/GMAIL-Send%20a%20Message%20%E2%86%97-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7a1810" width="280"/>
 </a>
 
-<br/>
+</td>
+<td align="center">
 
 <a href="https://www.facebook.com/ton.kla.18488">
-<img src="https://img.shields.io/badge/FACEBOOK-Add%20Friend%20%E2%86%97-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a3580" width="560"/>
+<img src="https://img.shields.io/badge/FACEBOOK-Add%20Friend%20%E2%86%97-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a3580" width="280"/>
 </a>
 
-<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
 
 <a href="https://discord.com/users/734421230270283812">
-<img src="https://img.shields.io/badge/DISCORD-Add%20Friend%20%E2%86%97-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c3399" width="560"/>
+<img src="https://img.shields.io/badge/DISCORD-Add%20Friend%20%E2%86%97-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c3399" width="280"/>
 </a>
 
-<br/>
+</td>
+<td align="center">
 
 <a href="https://github.com/tonklasocute/portfolio">
-<img src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work%20%E2%86%97-00d4ff?style=for-the-badge&logo=todoist&logoColor=050d2e&labelColor=005580" width="560"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work%20%E2%86%97-00d4ff?style=for-the-badge&logo=todoist&logoColor=050d2e&labelColor=005580" width="280"/>
 </a>
 
-<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 </div>
 
