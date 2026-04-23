@@ -60,11 +60,10 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209&text=%E2%9C%A6+KHOMKRIT+DANGNUAN+%E2%9C%A6&fontSize=13&fontColor=00d4ff&fontAlignY=66" width="92%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=12&duration=2600&pause=2400&color=7EAEC8&center=true&vCenter=true&repeat=true&width=260&height=22&lines=Full+Stack+Developer+%E2%80%A2+Thailand" alt="mini-intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=2600&pause=2400&color=7EAEC8&center=true&vCenter=true&repeat=true&width=260&height=22&lines=Full+Stack+Developer+%E2%80%A2+Thailand" alt="mini-intro"/>
 
 <br/><br/>
 
@@ -78,11 +77,6 @@
 
 [![](https://img.shields.io/badge/%E2%9A%A1_NEN_TYPE-Transmuter-003d5c?style=for-the-badge&labelColor=050d2e&color=005b84)](https://github.com/tonklasocute)
 
-<br/>
-
-[![](https://img.shields.io/badge/%E2%97%8F_STATUS-ONLINE-003d5c?style=for-the-badge&labelColor=050d2e&color=005b84)](https://github.com/tonklasocute)
-
-<br/>
 
 </td>
 <td width="65%" valign="top">
