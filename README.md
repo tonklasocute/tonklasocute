@@ -111,37 +111,42 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:020209,40:050d2e,60:050d2e,100:020209&text=%E2%9A%A1+THUNDERBOLT+%7C+Languages&fontSize=12&fontColor=7eaec8&fontAlignY=65" width="52%"/>
+<table border="0" cellpadding="20" cellspacing="0">
+<tr>
+<td align="center">
 
-<br/>
+![](https://img.shields.io/badge/%E2%9A%A1_THUNDERBOLT-Languages-003d5c?style=for-the-badge&labelColor=050d2e)
 
 [![](https://skillicons.dev/icons?i=ts,js,go,py,html,css&theme=dark)](https://skillicons.dev)
 
-<br/><br/>
+</td>
+<td align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:020209,40:050d2e,60:050d2e,100:020209&text=LIGHTNING+PALM+%7C+Frontend&fontSize=12&fontColor=7eaec8&fontAlignY=65" width="52%"/>
-
-<br/>
+![](https://img.shields.io/badge/LIGHTNING_PALM-Frontend-003d5c?style=for-the-badge&labelColor=050d2e)
 
 [![](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite&theme=dark)](https://skillicons.dev)
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:020209,40:050d2e,60:050d2e,100:020209&text=%E2%9A%A1+GODSPEED+%7C+Backend+%26+DB&fontSize=12&fontColor=7eaec8&fontAlignY=65" width="52%"/>
-
-<br/>
+![](https://img.shields.io/badge/%E2%9A%A1_GODSPEED-Backend_%2B_DB-003d5c?style=for-the-badge&labelColor=050d2e)
 
 [![](https://skillicons.dev/icons?i=nodejs,nestjs,express,go,postgresql,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
-<br/><br/>
+</td>
+<td align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:020209,40:050d2e,60:050d2e,100:020209&text=ASSASSINATION+ARTS+%7C+DevOps&fontSize=12&fontColor=7eaec8&fontAlignY=65" width="52%"/>
-
-<br/>
+![](https://img.shields.io/badge/ASSASSINATION_ARTS-DevOps_%26_Tools-003d5c?style=for-the-badge&labelColor=050d2e)
 
 [![](https://skillicons.dev/icons?i=docker,aws,git,linux,github,figma,vscode&theme=dark)](https://skillicons.dev)
 
-<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 </div>
 
@@ -150,22 +155,20 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                           -->
+<!--                   TROPHY SHOWCASE                         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+COMBAT+DATA&fontSize=32&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=GitHub+Stats+%E2%80%94+Tracking+Every+Battle&descSize=14&descColor=4a9aba&descAlign=50&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+TROPHY+SHOWCASE&fontSize=32&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Killua%27s+Battle+Records+%E2%80%94+Star+Hunter+Achievement+Log&descSize=13&descColor=4a9aba&descAlign=50&descAlignY=70" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tonklasocute&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=7eaec8&bg_color=020209&count_private=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tonklasocute&theme=transparent&hide_border=true&ring=00d4ff&fire=4a9aba&currStreakLabel=00d4ff&sideLabels=4a9aba&dates=7eaec8&background=020209&stroke=050d2e" height="170"/>
+[![](https://github-profile-trophy.vercel.app/?username=tonklasocute&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonklasocute&bg_color=020209&color=00d4ff&line=4a9aba&point=00d4ff&area=true&area_color=050d2e&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonklasocute&hide_border=true&title_color=00d4ff&text_color=7eaec8&layout=compact&langs_count=8&theme=transparent" width="60%"/>
 
 </div>
 
