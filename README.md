@@ -64,9 +64,9 @@
 
 <br/><br/>
 
-![](https://img.shields.io/badge/Developer-Full%20Stack-00d4ff?style=flat-square&labelColor=08142c&color=00d4ff)
+![](https://img.shields.io/badge/Developer-Full%20Stack-00d4ff?style=flat-square&labelColor=050d2e&color=00d4ff)
 &nbsp;
-![](https://img.shields.io/badge/Based%20in-Thailand%20%F0%9F%87%B9%F0%9F%87%AD-4a9aba?style=flat-square&labelColor=08142c&color=4a9aba)
+![](https://img.shields.io/badge/Based%20in-Thailand%20%F0%9F%87%B9%F0%9F%87%AD-00d4ff?style=flat-square&labelColor=050d2e&color=00d4ff)
 
 <br/>
 
@@ -299,16 +299,26 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+GODSPEED&fontSize=76&fontColor=00d4ff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=SIGNING+OFF+%E2%80%94+KILLUA+ZOLDYCK&descSize=22&descColor=7eaec8&descAlign=50&descAlignY=62" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:020209,40:050d2e,60:050d2e,100:020209&text=Thanks+for+stopping+by+%E2%80%94+let%27s+build+something+legendary+together+someday+%E2%9A%A1&fontSize=14&fontColor=4a9aba&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=126&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+UNTIL+NEXT+TIME&fontSize=42&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=fadeIn&desc=Thanks+for+visiting+my+corner+of+the+internet&descSize=16&descColor=7eaec8&descAlign=50&descAlignY=70" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2200&pause=900&color=4A9ABA&center=true&vCenter=true&width=700&height=44&lines=%3E+Godspeed+mode+deactivating...;%3E+All+Nen+reserves+safely+stored+%E2%9A%A1;%3E+Signal+fading+%E2%80%94+until+we+meet+again;%3E+Stay+sharp+%7C+Code+fast+%7C+No+regrets" alt="footer-typing"/>
+<sub>Building clean products, moving fast, and leaving no regrets.</sub>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/Full%20Stack%20Developer-00d4ff?style=flat-square&labelColor=050d2e&color=00d4ff)
+&nbsp;
+![](https://img.shields.io/badge/Thailand%20%F0%9F%87%B9%F0%9F%87%AD-00d4ff?style=flat-square&labelColor=050d2e&color=00d4ff)
+&nbsp;
+![](https://img.shields.io/badge/Open%20to-Collaboration-00d4ff?style=flat-square&labelColor=050d2e&color=00d4ff)
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2400&pause=1200&color=4A9ABA&center=true&vCenter=true&width=680&height=34&lines=%3E+Signal+stable+%E2%80%94+see+you+in+the+next+build;%3E+Stay+sharp+%7C+Code+clean+%7C+Move+with+intent" alt="footer-typing"/>
 
 <br/><br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:020209,30:030e1c,60:041428,100:020209&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:020209,30:030e1c,60:041428,100:020209&section=footer" width="100%"/>
