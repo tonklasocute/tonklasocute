@@ -299,30 +299,30 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=126&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+UNTIL+NEXT+TIME&fontSize=42&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=fadeIn&desc=Thanks+for+visiting+my+corner+of+the+internet&descSize=16&descColor=7eaec8&descAlign=50&descAlignY=70" width="100%"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209&text=%E2%9C%A6+Khomkrit+Dangnuan+%E2%9C%A6&fontSize=15&fontColor=00d4ff&fontAlignY=66" width="62%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=132&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+THANKS+FOR+SCROLLING&fontSize=38&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=fadeIn&desc=Designing+with+intent+%E2%80%A2+Building+with+speed+%E2%80%A2+Shipping+with+care&descSize=15&descColor=7eaec8&descAlign=50&descAlignY=70" width="100%"/>
 
 <br/><br/>
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=2600&pause=1000&color=4A9ABA&center=true&vCenter=true&width=760&height=34&lines=%3E+Khomkrit+Dangnuan+%2F%2F+Full+Stack+Developer;%3E+Interfaces+that+feel+clean+%2B+systems+that+stay+reliable;%3E+See+you+in+the+next+build+%E2%9A%A1" alt="footer-typing"/>
 
-<sub>
-Crafting thoughtful interfaces, reliable systems,<br/>
-and experiences that feel sharp, fast, and alive.
-</sub>
+<br/><br/>
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/tonklasocute">
+  <img src="https://img.shields.io/badge/GitHub-050d2e?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=050d2e"/>
+</a>
+<a href="https://www.linkedin.com/in/khomkrit-daengnuan/">
+  <img src="https://img.shields.io/badge/LinkedIn-050d2e?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=050d2e"/>
+</a>
+<a href="mailto:khomkrit.d@outlook.com">
+  <img src="https://img.shields.io/badge/Email-050d2e?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=050d2e"/>
+</a>
+<a href="https://github.com/tonklasocute/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-050d2e?style=for-the-badge&logo=vercel&logoColor=00d4ff&labelColor=050d2e"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2400&pause=1200&color=4A9ABA&center=true&vCenter=true&width=680&height=34&lines=%3E+Signal+stable+%E2%80%94+see+you+in+the+next+build;%3E+Stay+sharp+%7C+Code+clean+%7C+Move+with+intent" alt="footer-typing"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209&text=Khomkrit+Dangnuan+%E2%80%A2+Thailand+%F0%9F%87%B9%F0%9F%87%AD+%E2%80%A2+Open+for+collaboration&fontSize=13&fontColor=00d4ff&fontAlignY=66" width="72%"/>
 
 <br/><br/>
 
