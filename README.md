@@ -60,7 +60,7 @@
 
 <br/>
 
-<sub><b>Khomkrit Dangnuan</b></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=2600&pause=2200&color=00D4FF&center=true&vCenter=true&repeat=true&width=240&height=24&lines=Khomkrit+Dangnuan" alt="Khomkrit Dangnuan"/>
 
 <br/>
 
