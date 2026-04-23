@@ -60,8 +60,13 @@
 
 <br/><br/>
 
-![](https://img.shields.io/badge/Khomkrit%20Dangnuan-00d4ff?style=flat-square&label=Developer&labelColor=08142c&color=00d4ff)
-![](https://img.shields.io/badge/Thailand%20%F0%9F%87%B9%F0%9F%87%AD-4a9aba?style=flat-square&label=Based%20in&labelColor=08142c&color=4a9aba)
+<sub><b>Khomkrit Dangnuan</b> • Full Stack Developer from Thailand</sub>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/Developer-Full%20Stack-00d4ff?style=flat-square&labelColor=08142c&color=00d4ff)
+&nbsp;
+![](https://img.shields.io/badge/Based%20in-Thailand%20%F0%9F%87%B9%F0%9F%87%AD-4a9aba?style=flat-square&labelColor=08142c&color=4a9aba)
 
 <br/>
 
