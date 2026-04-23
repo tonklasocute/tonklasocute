@@ -307,25 +307,6 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <br/><br/>
 
-<a href="https://github.com/tonklasocute">
-  <img src="https://img.shields.io/badge/GitHub-050d2e?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=050d2e"/>
-</a>
-<a href="https://www.linkedin.com/in/khomkrit-daengnuan/">
-  <img src="https://img.shields.io/badge/LinkedIn-050d2e?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=050d2e"/>
-</a>
-<a href="mailto:khomkrit.d@outlook.com">
-  <img src="https://img.shields.io/badge/Email-050d2e?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=050d2e"/>
-</a>
-<a href="https://github.com/tonklasocute/portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-050d2e?style=for-the-badge&logo=vercel&logoColor=00d4ff&labelColor=050d2e"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209&text=Khomkrit+Dangnuan+%E2%80%A2+Thailand+%F0%9F%87%B9%F0%9F%87%AD+%E2%80%A2+Open+for+collaboration&fontSize=13&fontColor=00d4ff&fontAlignY=66" width="72%"/>
-
-<br/><br/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:020209,30:030e1c,60:041428,100:020209&section=footer" width="100%"/>
