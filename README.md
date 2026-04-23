@@ -303,17 +303,24 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <br/>
 
-<sub>Building clean products, moving fast, and leaving no regrets.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209&text=%E2%9C%A6+Khomkrit+Dangnuan+%E2%9C%A6&fontSize=15&fontColor=00d4ff&fontAlignY=66" width="62%"/>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/Full%20Stack%20Developer-00d4ff?style=flat-square&labelColor=050d2e&color=00d4ff)
-&nbsp;
-![](https://img.shields.io/badge/Thailand%20%F0%9F%87%B9%F0%9F%87%AD-00d4ff?style=flat-square&labelColor=050d2e&color=00d4ff)
-&nbsp;
-![](https://img.shields.io/badge/Open%20to-Collaboration-00d4ff?style=flat-square&labelColor=050d2e&color=00d4ff)
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
 
-<br/><br/>
+<sub>
+Crafting thoughtful interfaces, reliable systems,<br/>
+and experiences that feel sharp, fast, and alive.
+</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2400&pause=1200&color=4A9ABA&center=true&vCenter=true&width=680&height=34&lines=%3E+Signal+stable+%E2%80%94+see+you+in+the+next+build;%3E+Stay+sharp+%7C+Code+clean+%7C+Move+with+intent" alt="footer-typing"/>
 
