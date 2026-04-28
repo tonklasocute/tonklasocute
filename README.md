@@ -167,20 +167,38 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                   TROPHY SHOWCASE                         -->
+<!--                   NEN POWER ANALYSIS                      -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+TROPHY+SHOWCASE&fontSize=32&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Killua%27s+Battle+Records+%E2%80%94+Star+Hunter+Achievement+Log&descSize=13&descColor=4a9aba&descAlign=50&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+NEN+POWER+ANALYSIS&fontSize=32&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Transmutation+Output+%E2%80%94+Battle+Data+Classified&descSize=14&descColor=4a9aba&descAlign=50&descAlignY=70" width="100%"/>
 
 <br/>
 
-[![](https://github-profile-trophy.vercel.app/?username=tonklasocute&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=tonklasocute&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=7eaec8&border_color=003d5c&rank_icon=github&include_all_commits=true&count_private=true" width="49%" align="top"/>
+<img src="https://streak-stats.demolab.com?user=tonklasocute&theme=transparent&hide_border=false&stroke=003d5c&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&sideNums=7eaec8&currStreakLabel=4a9aba&sideLabels=4a9aba&dates=4a9aba&background=00000000" width="49%" align="top"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonklasocute&hide_border=true&title_color=00d4ff&text_color=7eaec8&layout=compact&langs_count=8&theme=transparent" width="60%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonklasocute&bg_color=020209&color=4a9aba&line=003d5c&point=00d4ff&area=true&area_color=001533&hide_border=true&custom_title=%E2%9A%A1+GODSPEED+CONTRIBUTION+TRAIL" width="100%"/>
+
+<br/><br/>
+
+<table border="0" cellpadding="12" cellspacing="0">
+<tr>
+<td align="center" width="38%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonklasocute&hide_border=false&title_color=00d4ff&text_color=7eaec8&layout=donut&langs_count=6&theme=transparent&border_color=003d5c" width="260"/>
+
+</td>
+<td align="center" width="62%">
+
+<img src="https://raw.githubusercontent.com/tonklasocute/tonklasocute/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
