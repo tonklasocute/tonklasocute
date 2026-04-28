@@ -167,20 +167,54 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                HUNTER STATS TERMINAL                      -->
+<!--                NEN ABILITY SCANNER                        -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+HUNTER+STATS+TERMINAL&fontSize=32&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Killua+Zoldyck+%E2%80%94+Star+Class+%7C+Mission+Analysis+Mode&descSize=13&descColor=4a9aba&descAlign=50&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+NEN+ABILITY+SCANNER&fontSize=32&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=%E3%82%BE%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E6%B5%81+%E2%80%94+Transmutation+Core+Active&descSize=14&descColor=4a9aba&descAlign=50&descAlignY=70" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1100&pause=250&color=00D4FF&center=true&vCenter=true&width=900&height=26&lines=%3E+Connecting+to+Hunter+Association+database...+%5BORG%5D;%3E+Nen+Type%3A+TRANSMUTER+%7C+Ability%3A+GODSPEED+%5BVERIFIED%5D;%3E+Fetching+battle+records+%26+stats...+%5BDONE%5D;%3E+%E2%9A%A1+Initiating+display...+All+systems+operational." alt="terminal-boot"/>
+<table border="0" cellpadding="20" cellspacing="0">
+<tr>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media1.tenor.com/m/fKinuddndSYAAAAC/killua-godspeed.gif" width="220"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/tonklasocute/tonklasocute/3d-output/profile-night-rainbow.svg" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=15&duration=3000&pause=5000&color=00D4FF&center=true&vCenter=true&width=260&height=28&lines=KILLUA+ZOLDYCK" alt="name"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=3000&pause=5000&color=4A9ABA&center=true&vCenter=true&width=260&height=22&lines=%E2%9A%A1+TRANSMUTER+%7C+STAR+HUNTER" alt="class"/>
+
+<br/>
+
+[![](https://img.shields.io/badge/LVL-99-00d4ff?style=for-the-badge&labelColor=050d2e)](https://github.com/tonklasocute)
+[![](https://img.shields.io/badge/NEN-TRANSMUTATION-003d5c?style=for-the-badge&labelColor=050d2e)](https://github.com/tonklasocute)
+
+</td>
+<td width="62%" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1500&pause=8000&color=4A9ABA&center=false&vCenter=true&width=500&height=24&lines=%3E+Scanning+Nen+abilities...+%5BDONE%5D" alt="scan-line"/>
+
+<br/><br/>
+
+<img src="https://progress-bar.dev/90/?title=Go+%28Golang%29&width=420&color=00d4ff" height="22"/>
+<br/>
+<img src="https://progress-bar.dev/85/?title=TypeScript+%2F+JavaScript&width=420&color=00d4ff" height="22"/>
+<br/>
+<img src="https://progress-bar.dev/80/?title=React+%2F+Next.js+%2F+Vue&width=420&color=4a9aba" height="22"/>
+<br/>
+<img src="https://progress-bar.dev/75/?title=NestJS+%2F+Node.js&width=420&color=4a9aba" height="22"/>
+<br/>
+<img src="https://progress-bar.dev/70/?title=PostgreSQL+%2F+MySQL&width=420&color=4a9aba" height="22"/>
+<br/>
+<img src="https://progress-bar.dev/65/?title=Docker+%2F+AWS&width=420&color=4a9aba" height="22"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
