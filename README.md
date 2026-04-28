@@ -315,9 +315,11 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+THANKS+FOR+SCROLLING&fontSize=38&fontColor=00d4ff&fontAlign=50&fontAlignY=48&animation=twinkling&desc=Designing+with+intent+%E2%80%A2+Building+with+speed+%E2%80%A2+Shipping+with+care&descSize=15&descColor=7eaec8&descAlign=50&descAlignY=74" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=2600&pause=1000&color=4A9ABA&center=true&vCenter=true&width=760&height=34&lines=%3E+Khomkrit+Dangnuan+%2F%2F+Full+Stack+Developer;%3E+Interfaces+that+feel+clean+%2B+systems+that+stay+reliable;%3E+See+you+in+the+next+build+%E2%9A%A1" alt="footer-typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=20&duration=4000&pause=10000&color=FFFFFF&center=true&vCenter=true&width=760&height=42&lines=%E3%80%8C%E3%81%BE%E3%81%9F%E6%AC%A1%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E4%BC%9A%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E3%80%82%E3%80%8D" alt="jp-farewell"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2200&pause=800&color=00D4FF&center=true&vCenter=true&width=760&height=38&lines=%E2%9A%A1+Khomkrit+Dangnuan+%E2%80%94+Go+Dev+%26+Full+Stack+Engineer;%3E+Build+fast+%C2%B7+Ship+clean+%C2%B7+No+regrets.;%3E+%E2%9A%A1+Mission+complete+%E2%80%94+until+the+next+commit" alt="footer-typing"/>
 
 <br/>
 
