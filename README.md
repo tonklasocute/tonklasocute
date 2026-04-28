@@ -121,7 +121,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+TECH+STACK&fontSize=32&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=%E5%BF%B5%E8%83%BD%E5%8A%9B+%E2%80%94+Tools+of+a+Star+Hunter&descSize=14&descColor=4a9aba&descAlign=50&descAlignY=70" width="100%"/>
 
-<br/> <br/> 
+<br/>
 
 <table border="0" cellpadding="20" cellspacing="0">
 <tr>
@@ -172,11 +172,13 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020209,50:050d2e,100:020209&text=%E2%9A%A1+HUNTER+STATS+TERMINAL&fontSize=36&fontColor=00d4ff&fontAlign=50&fontAlignY=45&desc=Killua+Zoldyck+%E2%80%94+Star+Class+%7C+Mission+Analysis+Mode&descSize=13&descColor=4a9aba&descAlign=50&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+HUNTER+STATS+TERMINAL&fontSize=32&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Killua+Zoldyck+%E2%80%94+Star+Class+%7C+Mission+Analysis+Mode&descSize=13&descColor=4a9aba&descAlign=50&descAlignY=70" width="100%"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1100&pause=250&color=00D4FF&center=true&vCenter=true&width=900&height=26&lines=%3E+Connecting+to+Hunter+Association+database...+%5BORG%5D;%3E+Nen+Type%3A+TRANSMUTER+%7C+Ability%3A+GODSPEED+%5BVERIFIED%5D;%3E+Fetching+battle+records+%26+stats...+%5BDONE%5D;%3E+%E2%9A%A1+Initiating+display...+All+systems+operational." alt="terminal-boot"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonklasocute&theme=tokyonight" width="95%"/>
 
@@ -185,6 +187,8 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tonklasocute&theme=tokyonight" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tonklasocute&theme=tokyonight" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonklasocute&theme=tokyonight&utcOffset=7" width="32%"/>
+
+<br/>
 
 </div>
 
@@ -197,7 +201,6 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<br/>
 
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -245,7 +248,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1800&pause=700&color=00D4FF&center=true&vCenter=true&width=480&height=28&lines=%3E+Initializing+contact+channels...;%3E+Signal+locked+%E2%80%94+all+systems+go+%E2%9A%A1;%3E+Godspeed+mode+ON+%7C+Ready+to+connect" alt="terminal-typing"/>
 
-<br/><br/>
+<br/>
 
 <table border="0" cellpadding="8" cellspacing="0">
 <tr>
@@ -312,7 +315,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+THANKS+FOR+SCROLLING&fontSize=38&fontColor=00d4ff&fontAlign=50&fontAlignY=48&animation=twinkling&desc=Designing+with+intent+%E2%80%A2+Building+with+speed+%E2%80%A2+Shipping+with+care&descSize=15&descColor=7eaec8&descAlign=50&descAlignY=74" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=2600&pause=1000&color=4A9ABA&center=true&vCenter=true&width=760&height=34&lines=%3E+Khomkrit+Dangnuan+%2F%2F+Full+Stack+Developer;%3E+Interfaces+that+feel+clean+%2B+systems+that+stay+reliable;%3E+See+you+in+the+next+build+%E2%9A%A1" alt="footer-typing"/>
 
