@@ -1,0 +1,32 @@
+name: 🌐 Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 17 * * *"   # ทุกวัน เที่ยงคืน (UTC+7)
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-3d-contribution
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 🌐 Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 10
+
+      - name: 🗡️ Push to 3d-output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: 3d-output
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
