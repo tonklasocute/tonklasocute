@@ -167,64 +167,6 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                NEN ABILITY SCANNER                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+NEN+ABILITY+SCANNER&fontSize=32&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=%E3%82%BE%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E6%B5%81+%E2%80%94+Transmutation+Core+Active&descSize=14&descColor=4a9aba&descAlign=50&descAlignY=70" width="100%"/>
-
-<br/>
-
-<table border="0" cellpadding="20" cellspacing="0">
-<tr>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://media1.tenor.com/m/fKinuddndSYAAAAC/killua-godspeed.gif" width="220"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=15&duration=3000&pause=5000&color=00D4FF&center=true&vCenter=true&width=260&height=28&lines=KILLUA+ZOLDYCK" alt="name"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=3000&pause=5000&color=4A9ABA&center=true&vCenter=true&width=260&height=22&lines=%E2%9A%A1+TRANSMUTER+%7C+STAR+HUNTER" alt="class"/>
-
-<br/>
-
-[![](https://img.shields.io/badge/LVL-99-00d4ff?style=for-the-badge&labelColor=050d2e)](https://github.com/tonklasocute)
-[![](https://img.shields.io/badge/NEN-TRANSMUTATION-003d5c?style=for-the-badge&labelColor=050d2e)](https://github.com/tonklasocute)
-
-</td>
-<td width="62%" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1500&pause=8000&color=4A9ABA&center=false&vCenter=true&width=500&height=24&lines=%3E+Scanning+Nen+abilities...+%5BDONE%5D" alt="scan-line"/>
-
-<br/><br/>
-
-<img src="https://progress-bar.dev/90/?title=Go+%28Golang%29&width=420&color=00d4ff" height="22"/>
-<br/>
-<img src="https://progress-bar.dev/85/?title=TypeScript+%2F+JavaScript&width=420&color=00d4ff" height="22"/>
-<br/>
-<img src="https://progress-bar.dev/80/?title=React+%2F+Next.js+%2F+Vue&width=420&color=4a9aba" height="22"/>
-<br/>
-<img src="https://progress-bar.dev/75/?title=NestJS+%2F+Node.js&width=420&color=4a9aba" height="22"/>
-<br/>
-<img src="https://progress-bar.dev/70/?title=PostgreSQL+%2F+MySQL&width=420&color=4a9aba" height="22"/>
-<br/>
-<img src="https://progress-bar.dev/65/?title=Docker+%2F+AWS&width=420&color=4a9aba" height="22"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="100%"/>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
 <!--                     QUOTE SECTION                         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
@@ -343,7 +285,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+THANKS+FOR+SCROLLING&fontSize=38&fontColor=00d4ff&fontAlign=50&fontAlignY=48&animation=twinkling&desc=Designing+with+intent+%E2%80%A2+Building+with+speed+%E2%80%A2+Shipping+with+care&descSize=15&descColor=7eaec8&descAlign=50&descAlignY=74" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=20&duration=4000&pause=10000&color=FFFFFF&center=true&vCenter=true&width=760&height=42&lines=%E3%80%8C%E3%81%BE%E3%81%9F%E6%AC%A1%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E4%BC%9A%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E3%80%82%E3%80%8D" alt="jp-farewell"/>
 
