@@ -180,7 +180,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonklasocute&theme=tokyonight" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonklasocute&bg_color=020209&color=4a9aba&line=003d5c&point=00d4ff&area=true&area_color=001533&hide_border=true&custom_title=%E2%9A%A1+GODSPEED+CONTRIBUTION+TRAIL" width="95%"/>
 
 <br/>
 
