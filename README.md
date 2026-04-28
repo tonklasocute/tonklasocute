@@ -129,14 +129,14 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 ![](https://img.shields.io/badge/%E2%9A%A1_THUNDERBOLT-Languages-003d5c?style=for-the-badge&labelColor=050d2e)
 
-[![](https://skillicons.dev/icons?i=ts,js,go,py,html,css&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ts,js,py,html,css,bash&theme=dark)](https://skillicons.dev)
 
 </td>
 <td align="center">
 
 ![](https://img.shields.io/badge/LIGHTNING_PALM-Frontend-003d5c?style=for-the-badge&labelColor=050d2e)
 
-[![](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,figma&theme=dark)](https://skillicons.dev)
 
 </td>
 </tr>
@@ -145,14 +145,14 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 ![](https://img.shields.io/badge/%E2%9A%A1_GODSPEED-Backend_%2B_DB-003d5c?style=for-the-badge&labelColor=050d2e)
 
-[![](https://skillicons.dev/icons?i=nodejs,nestjs,express,go,postgresql,mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,nestjs,go,postgresql,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 </td>
 <td align="center">
 
 ![](https://img.shields.io/badge/ASSASSINATION_ARTS-DevOps_%26_Tools-003d5c?style=for-the-badge&labelColor=050d2e)
 
-[![](https://skillicons.dev/icons?i=docker,aws,git,linux,github,figma,vscode&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=docker,aws,git,linux,github,vscode&theme=dark)](https://skillicons.dev)
 
 </td>
 </tr>
@@ -185,10 +185,6 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tonklasocute&theme=tokyonight" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tonklasocute&theme=tokyonight" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonklasocute&theme=tokyonight&utcOffset=7" width="32%"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/tonklasocute/tonklasocute/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
