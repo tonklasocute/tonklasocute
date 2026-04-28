@@ -167,38 +167,28 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                   NEN POWER ANALYSIS                      -->
+<!--                HUNTER STATS TERMINAL                      -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020209,30:050d2e,70:050d2e,100:020209&text=%E2%9A%A1+NEN+POWER+ANALYSIS&fontSize=32&fontColor=00d4ff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Transmutation+Output+%E2%80%94+Battle+Data+Classified&descSize=14&descColor=4a9aba&descAlign=50&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020209,50:050d2e,100:020209&text=%E2%9A%A1+HUNTER+STATS+TERMINAL&fontSize=36&fontColor=00d4ff&fontAlign=50&fontAlignY=45&desc=Killua+Zoldyck+%E2%80%94+Star+Class+%7C+Mission+Analysis+Mode&descSize=13&descColor=4a9aba&descAlign=50&descAlignY=65" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1100&pause=250&color=00D4FF&center=true&vCenter=true&width=900&height=26&lines=%3E+Connecting+to+Hunter+Association+database...+%5BORG%5D;%3E+Nen+Type%3A+TRANSMUTER+%7C+Ability%3A+GODSPEED+%5BVERIFIED%5D;%3E+Fetching+battle+records+%26+stats...+%5BDONE%5D;%3E+%E2%9A%A1+Initiating+display...+All+systems+operational." alt="terminal-boot"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonklasocute&theme=tokyonight" width="95%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tonklasocute&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=7eaec8&border_color=003d5c&rank_icon=github&include_all_commits=true&count_private=true" width="49%" align="top"/>
-<img src="https://streak-stats.demolab.com?user=tonklasocute&theme=transparent&hide_border=false&stroke=003d5c&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&sideNums=7eaec8&currStreakLabel=4a9aba&sideLabels=4a9aba&dates=4a9aba&background=00000000" width="49%" align="top"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tonklasocute&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tonklasocute&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonklasocute&theme=tokyonight&utcOffset=7" width="32%"/>
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonklasocute&bg_color=020209&color=4a9aba&line=003d5c&point=00d4ff&area=true&area_color=001533&hide_border=true&custom_title=%E2%9A%A1+GODSPEED+CONTRIBUTION+TRAIL" width="100%"/>
-
-<br/><br/>
-
-<table border="0" cellpadding="12" cellspacing="0">
-<tr>
-<td align="center" width="38%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonklasocute&hide_border=false&title_color=00d4ff&text_color=7eaec8&layout=donut&langs_count=6&theme=transparent&border_color=003d5c" width="260"/>
-
-</td>
-<td align="center" width="62%">
 
 <img src="https://raw.githubusercontent.com/tonklasocute/tonklasocute/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 </div>
 
