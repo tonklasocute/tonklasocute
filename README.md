@@ -127,30 +127,30 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <tr>
 <td align="center">
 
-![](https://img.shields.io/badge/%E2%9A%A1_THUNDERBOLT-Languages-003d5c?style=for-the-badge&labelColor=050d2e)
+![](https://img.shields.io/badge/%E2%9A%A1_THUNDERBOLT-LANGUAGE_CORE-003d5c?style=for-the-badge&labelColor=050d2e&logoColor=00d4ff)
 
-[![](https://skillicons.dev/icons?i=ts,js,py,html,css,bash&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ts,js,py,html,css,sass&theme=dark)](https://skillicons.dev)
 
 </td>
 <td align="center">
 
-![](https://img.shields.io/badge/LIGHTNING_PALM-Frontend-003d5c?style=for-the-badge&labelColor=050d2e)
+![](https://img.shields.io/badge/%E2%9A%A1_LIGHTNING_PALM-UI_%26_FRAMEWORKS-003d5c?style=for-the-badge&labelColor=050d2e&logoColor=00d4ff)
 
-[![](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,figma&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,vite&theme=dark)](https://skillicons.dev)
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-![](https://img.shields.io/badge/%E2%9A%A1_GODSPEED-Backend_%2B_DB-003d5c?style=for-the-badge&labelColor=050d2e)
+![](https://img.shields.io/badge/%E2%9A%A1_GODSPEED-SERVER_%26_DATABASE-003d5c?style=for-the-badge&labelColor=050d2e&logoColor=00d4ff)
 
 [![](https://skillicons.dev/icons?i=nodejs,nestjs,go,postgresql,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 </td>
 <td align="center">
 
-![](https://img.shields.io/badge/ASSASSINATION_ARTS-DevOps_%26_Tools-003d5c?style=for-the-badge&labelColor=050d2e)
+![](https://img.shields.io/badge/%F0%9F%97%A1%EF%B8%8F_ASSASSINATION_ARTS-DEVOPS_%26_TOOLS-003d5c?style=for-the-badge&labelColor=050d2e&logoColor=00d4ff)
 
 [![](https://skillicons.dev/icons?i=docker,aws,git,linux,github,vscode&theme=dark)](https://skillicons.dev)
 
