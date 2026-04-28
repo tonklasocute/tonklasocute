@@ -98,11 +98,11 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 ### 🗡️ &nbsp;Expertise
 
 ```
-  ⚡  Frontend Development    →  React, Next.js, Vue, Tailwind CSS
-  ⚡  Backend Development     →  Node.js, NestJS, Go (Golang), REST & GraphQL APIs
-  ⚡  Database                →  PostgreSQL, MySQL, MongoDB, Redis
-  ⚡  DevOps & Cloud          →  Docker, AWS, CI/CD pipelines
-  ⚡  UI/UX Thinking          →  Figma, responsive & accessible design
+  ⚡  Go (Golang)    →  REST APIs, microservices, high-performance services
+  ⚡  Backend        →  NestJS, Node.js, GraphQL
+  ⚡  Frontend       →  React, Next.js, Vue, Nuxt, Tailwind CSS
+  ⚡  Database       →  PostgreSQL, MySQL, MongoDB
+  ⚡  DevOps         →  Docker, AWS, GitHub Actions
 ```
 
 </td>
