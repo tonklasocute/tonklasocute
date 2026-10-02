@@ -60,7 +60,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=19&duration=3200&pause=2800&color=00D4FF&center=true&vCenter=true&repeat=true&width=260&height=34&lines=KHOMKRIT+DANGNUAN" alt="Khomkrit Dangnuan"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=19&duration=3200&pause=2800&color=00D4FF&center=true&vCenter=true&repeat=true&width=260&height=34&lines=KHOMKRIT+DAENGNUAN" alt="Khomkrit Daengnuan"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=12&duration=3200&pause=2800&color=4A9ABA&center=true&vCenter=true&repeat=true&width=260&height=20&lines=%E2%9A%A1+Full+Stack+Developer" alt="role"/>
 
@@ -84,7 +84,7 @@
 
 ### ⚡ &nbsp;こんにちは — Hi there!
 
-I'm **Khomkrit Dangnuan**, a passionate **Full Stack Developer** from Thailand with a love for building clean, fast, and beautiful web applications.
+I'm **Khomkrit Daengnuan**, a passionate **Full Stack Developer** from Thailand with a love for building clean, fast, and beautiful web applications.
 
 Like Killua, I believe in pushing limits — whether it's optimizing a slow query or crafting pixel-perfect UI. I work with modern JavaScript ecosystems and love turning complex problems into elegant solutions.
 
@@ -289,7 +289,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=20&duration=4000&pause=10000&color=FFFFFF&center=true&vCenter=true&width=760&height=42&lines=%E3%80%8C%E3%81%BE%E3%81%9F%E6%AC%A1%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E4%BC%9A%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E3%80%82%E3%80%8D" alt="jp-farewell"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2200&pause=800&color=00D4FF&center=true&vCenter=true&width=760&height=38&lines=%E2%9A%A1+Khomkrit+Dangnuan+%E2%80%94+Go+Dev+%26+Full+Stack+Engineer;%3E+Build+fast+%C2%B7+Ship+clean+%C2%B7+No+regrets.;%3E+%E2%9A%A1+Mission+complete+%E2%80%94+until+the+next+commit" alt="footer-typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2200&pause=800&color=00D4FF&center=true&vCenter=true&width=760&height=38&lines=%E2%9A%A1+Khomkrit+Daengnuan+%E2%80%94+Go+Dev+%26+Full+Stack+Engineer;%3E+Build+fast+%C2%B7+Ship+clean+%C2%B7+No+regrets.;%3E+%E2%9A%A1+Mission+complete+%E2%80%94+until+the+next+commit" alt="footer-typing"/>
 
 <br/>
 
