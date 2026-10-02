@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://media1.tenor.com/m/YGFHz0iNNh8AAAAC/killua-killuazoldyc.gif" width="100%"/>
+<img src="./assets/killua-banner.gif" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020209,20:003d5c,50:00d4ff,80:003d5c,100:020209" width="75%"/>
 
@@ -56,7 +56,7 @@
 
 <br/>
 
-<img src="https://media1.tenor.com/m/0SJj_JDgzHAAAAAC/killua-gon.gif" width="220px"/>
+<img src="./assets/killua-gon.gif" width="220px"/>
 
 <br/>
 
@@ -176,7 +176,7 @@ Like Killua, I believe in pushing limits — whether it's optimizing a slow quer
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media1.tenor.com/m/fKinuddndSYAAAAC/killua-godspeed.gif" width="280"/>
+<img src="./assets/killua-godspeed.gif" width="280"/>
 
 </td>
 <td width="60%" align="center" valign="middle">
